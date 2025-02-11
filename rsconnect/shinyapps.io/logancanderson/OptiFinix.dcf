@@ -5,9 +5,9 @@ account: logancanderson
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13972108
-bundleId: 9784833
+bundleId: 9784910
 url: https://logancanderson.shinyapps.io/OptiFinix/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .Renviron|data/cleaned_checking_data.csv|data/cleaned_credit_card_data.csv|data/cleaned_savings_data.csv|data/synthetic_historical_transactions_data.csv
+ignoredFiles: .Renviron|data

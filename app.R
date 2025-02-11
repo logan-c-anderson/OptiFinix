@@ -130,27 +130,29 @@ server <- function(input, output, session) {
   
   # Reactive value to store Plaid API data
   plaid_data <- reactiveVal(list(checking = NULL, savings = NULL, credit_card = NULL))
-  
-  # Load data from GitHub
+  # Load data from GitHub (.rds format)
   load_data_from_github <- function(url) {
     tryCatch({
-      read.csv(url, encoding = "ISO-8859-1")
+      con <- gzcon(url(url, "rb"))  # Open connection to the URL
+      data <- readRDS(con)  # Read the RDS file
+      close(con)  # Close the connection
+      return(data)
     }, error = function(e) {
       showNotification(paste("Error loading data:", url), type = "error")
       return(NULL)  # Return NULL if the data cannot be loaded
     })
   }
   
-  # URLs for GitHub-hosted datasets
+  # Base URL for GitHub-hosted datasets
   github_base_url <- "https://raw.githubusercontent.com/logan-c-anderson/OptiFinix/main/data/"
   
-  # URLs for each dataset
-  historical_data_url <- paste0(github_base_url, "synthetic_historical_transactions_data.csv")
-  checking_data_url <- paste0(github_base_url, "cleaned_checking_data.csv")
-  credit_card_data_url <- paste0(github_base_url, "cleaned_credit_card_data.csv")
-  savings_data_url <- paste0(github_base_url, "cleaned_savings_data.csv")
+  # URLs for each dataset (.rds files)
+  historical_data_url <- paste0(github_base_url, "synthetic_historical_transactions_data.rds")
+  checking_data_url <- paste0(github_base_url, "cleaned_checking_data.rds")
+  credit_card_data_url <- paste0(github_base_url, "cleaned_credit_card_data.rds")
+  savings_data_url <- paste0(github_base_url, "cleaned_savings_data.rds")
   
-  # Function to load GitHub-hosted data
+  # Function to load GitHub-hosted .rds data
   load_local_data <- function() {
     checking_data <- load_data_from_github(checking_data_url)
     credit_card_data <- load_data_from_github(credit_card_data_url)
