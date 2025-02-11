@@ -1,5 +1,28 @@
-library(shiny)
+# ---
+# title: "OptiFinix"
+# author: "Logan Anderson"
+# format: Shiny App
+# ---
+
+# Deployed at : https://logancanderson.shinyapps.io/OptiFinix/
+# Source code at GitHub: https://github.com/logan-c-anderson/OptiFinix
+
+
+
+# Ensure all required packages are installed
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+packages_needed <- c("shiny", "DT", "shinyWidgets", "shinyjs", "plotly", "lubridate",
+                     "dplyr", "ggplot2", "randomForest", "rpart", "rpart.plot",
+                     "RColorBrewer", "prophet", "httr", "jsonlite", "shinyBS")
+
+packages_missing <- setdiff(packages_needed, installed.packages()[,"Package"])
+if (length(packages_missing) > 0) {
+  install.packages(packages_missing)
+}
+
+# Load required libraries
 library(DT)
+library(shiny)
 library(shinyWidgets)
 library(shinyjs)
 library(plotly)
@@ -14,6 +37,7 @@ library(prophet)
 library(httr)
 library(jsonlite)
 library(shinyBS)
+
 
 # Source the module files
 source("modules/summary_module.R")
@@ -107,15 +131,36 @@ server <- function(input, output, session) {
   # Reactive value to store Plaid API data
   plaid_data <- reactiveVal(list(checking = NULL, savings = NULL, credit_card = NULL))
   
-  # Function to load local data
+  # Load data from GitHub
+  load_data_from_github <- function(url) {
+    tryCatch({
+      read.csv(url, encoding = "ISO-8859-1")
+    }, error = function(e) {
+      showNotification(paste("Error loading data:", url), type = "error")
+      return(NULL)  # Return NULL if the data cannot be loaded
+    })
+  }
+  
+  # URLs for GitHub-hosted datasets
+  github_base_url <- "https://raw.githubusercontent.com/logan-c-anderson/OptiFinix/main/data/"
+  
+  # URLs for each dataset
+  historical_data_url <- paste0(github_base_url, "synthetic_historical_transactions_data.csv")
+  checking_data_url <- paste0(github_base_url, "cleaned_checking_data.csv")
+  credit_card_data_url <- paste0(github_base_url, "cleaned_credit_card_data.csv")
+  savings_data_url <- paste0(github_base_url, "cleaned_savings_data.csv")
+  
+  # Function to load GitHub-hosted data
   load_local_data <- function() {
-    checking_data <- read.csv("data/cleaned_checking_data.csv")
-    credit_card_data <- read.csv("data/cleaned_credit_card_data.csv")
-    savings_data <- read.csv("data/cleaned_savings_data.csv")
+    checking_data <- load_data_from_github(checking_data_url)
+    credit_card_data <- load_data_from_github(credit_card_data_url)
+    savings_data <- load_data_from_github(savings_data_url)
     
     # Load historical transactions
-    historical_data <- read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")
-    historical_data$Date <- mdy(historical_data$Date)
+    historical_data <- load_data_from_github(historical_data_url)
+    if (!is.null(historical_data)) {
+      historical_data$Date <- mdy(historical_data$Date)  # Ensure Date format
+    }
     
     list(
       checking = checking_data,
@@ -123,7 +168,24 @@ server <- function(input, output, session) {
       savings = savings_data,
       historical_transactions = historical_data
     )
-  }
+  }  
+  # # Function to load local data
+  # load_local_data <- function() {
+  #   checking_data <- read.csv("data/cleaned_checking_data.csv")
+  #   credit_card_data <- read.csv("data/cleaned_credit_card_data.csv")
+  #   savings_data <- read.csv("data/cleaned_savings_data.csv")
+  #   
+  #   # Load historical transactions
+  #   historical_data <- read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")
+  #   historical_data$Date <- mdy(historical_data$Date)
+  #   
+  #   list(
+  #     checking = checking_data,
+  #     credit_card = credit_card_data,
+  #     savings = savings_data,
+  #     historical_transactions = historical_data
+  #   )
+  # }
   
   # Logic for Populate Local Data Button
   observeEvent(input$populate_data_button, {
