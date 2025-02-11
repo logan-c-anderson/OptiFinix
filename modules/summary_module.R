@@ -227,6 +227,7 @@ summaryModule <- function(input, output, session, account_data, year_input, mont
       )
     
     event_register(p, "plotly_click")  # Register the plotly_click event
+    return(p)
   })
   
   

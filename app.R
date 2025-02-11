@@ -49,7 +49,7 @@ ui <- fluidPage(
   
   tags$div(
     style = "display: flex; align-items: center;",
-    tags$img(src = "OptiFinix_Logo.png", height = "80px", style = "margin-right: 10px;"), # Adjust size and spacing
+    tags$img(src = "optifinix_logo.png", height = "80px", style = "margin-right: 10px;"), # Adjust size and spacing
     tags$h1("OptiFinix", style = "margin: 0;") # App title
   ),
   useShinyjs(),  # Enable shinyjs functionality
@@ -133,20 +133,25 @@ server <- function(input, output, session) {
     data <- load_local_data()
     account_data(data)
     
+    # Find the most recent date in the dataset
+    latest_date <- max(data$historical_transactions$Date, na.rm = TRUE)
+    latest_year <- year(latest_date)
+    latest_month <- month(latest_date)
+    
     # Update selectors for Summary and Net Balances tabs
     updatePickerInput(session, "year_selector",
                       choices = unique(year(data$historical_transactions$Date)),
-                      selected = year(Sys.Date()))
+                      selected = latest_year)
     updatePickerInput(session, "month_selector",
                       choices = month.name,
-                      selected = month.name[month(Sys.Date())])
+                      selected = month.name[latest_month])
     
     updatePickerInput(session, "net_balance_year_selector",
                       choices = unique(year(data$historical_transactions$Date)),
-                      selected = year(Sys.Date()))
+                      selected = latest_year)
     updatePickerInput(session, "net_balance_month_selector",
                       choices = month.name,
-                      selected = month.name[month(Sys.Date())])
+                      selected = month.name[latest_month])
     
     shinyjs::hide("loading")  # Hide spinner
   })

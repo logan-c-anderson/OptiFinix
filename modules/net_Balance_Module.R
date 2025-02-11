@@ -50,20 +50,20 @@ netBalanceModule <- function(input, output, session, account_data, year_input, m
     data <- daily_net_balance()
     
     # Create line chart
-    plot_ly(data, 
-            x = ~Date, 
-            y = ~Net_Balance, 
-            type = "scatter", 
-            mode = "lines+markers", 
-            line = list(color = "#1f77b4"),  # Blue line for net balance
-            text = ~paste(
-              "Date:", format(Date, "%Y-%m-%d"), "<br>",
-              "Income: $", formatC(Total_Income, format = "f", big.mark = ",", digits = 2), "<br>",
-              "Expenses: $", formatC(Total_Expenses, format = "f", big.mark = ",", digits = 2), "<br>",
-              "Net Balance: $", formatC(Net_Balance, format = "f", big.mark = ",", digits = 2)
-            ),
-            hoverinfo = "text",
-            source = session$ns("line_chart")) %>%
+    p <- plot_ly(data, 
+                 x = ~Date, 
+                 y = ~Net_Balance, 
+                 type = "scatter", 
+                 mode = "lines+markers", 
+                 line = list(color = "#1f77b4"),  # Blue line for net balance
+                 text = ~paste(
+                   "Date:", format(Date, "%Y-%m-%d"), "<br>",
+                   "Income: $", formatC(Total_Income, format = "f", big.mark = ",", digits = 2), "<br>",
+                   "Expenses: $", formatC(Total_Expenses, format = "f", big.mark = ",", digits = 2), "<br>",
+                   "Net Balance: $", formatC(Net_Balance, format = "f", big.mark = ",", digits = 2)
+                 ),
+                 hoverinfo = "text",
+                 source = session$ns("line_chart")) %>%
       layout(
         title = paste("Daily Net Balance Trends for", month_input(), year_input()),
         xaxis = list(title = "Date"),
@@ -71,16 +71,18 @@ netBalanceModule <- function(input, output, session, account_data, year_input, m
         margin = list(l = 60, r = 20, t = 50, b = 50)
       )
     
+    p <- event_register(p, "plotly_click")  # ✅ Fix: Ensure event_register is applied to `p`
+    
+    return(p)
   })
   
   # Render a card for the selected day's transactions
-  # Card for Selected Day's Transactions
   output$daily_transactions_card <- renderUI({
-    clicked_data <- event_data("plotly_click", source = session$ns("line_chart"))
+    clicked_data <- clicked_date()  # ✅ Get clicked date reactively
     req(clicked_data)
-    clicked_date <- as.Date(clicked_data$x)
+    
     transactions <- filtered_data()
-    transactions <- transactions[as.Date(transactions$Date) == clicked_date, ]
+    transactions <- transactions[as.Date(transactions$Date) == clicked_data, ]
     
     card_content <- DT::datatable(
       transactions[, c("Date", "Category", "Details", "Amount")], 
@@ -107,9 +109,8 @@ netBalanceModule <- function(input, output, session, account_data, year_input, m
     div(
       class = "card mt-4",
       style = "padding: 20px; background-color: #1e2a47; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);",
-      h4(style = "color: #f4f4f4;", paste("Transactions for", format(clicked_date, "%Y-%m-%d"))),
+      h4(style = "color: #f4f4f4;", paste("Transactions for", format(clicked_data, "%Y-%m-%d"))),
       card_content
     )
   })
-  
 }

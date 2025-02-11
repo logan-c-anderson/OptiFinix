@@ -1,0 +1,13 @@
+name: OptiFinix
+title: OptiFinix
+username: logancanderson
+account: logancanderson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13972108
+bundleId: 9784607
+url: https://logancanderson.shinyapps.io/OptiFinix/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Renviron
