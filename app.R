@@ -13,6 +13,7 @@ library(RColorBrewer)
 library(prophet)
 library(httr)
 library(jsonlite)
+library(shinyBS)
 
 # Source the module files
 source("modules/summary_module.R")
@@ -108,12 +109,12 @@ server <- function(input, output, session) {
   
   # Function to load local data
   load_local_data <- function() {
-    checking_data <- read.csv("cleaned_checking_data.csv")
-    credit_card_data <- read.csv("cleaned_credit_card_data.csv")
-    savings_data <- read.csv("cleaned_savings_data.csv")
+    checking_data <- read.csv("data/cleaned_checking_data.csv")
+    credit_card_data <- read.csv("data/cleaned_credit_card_data.csv")
+    savings_data <- read.csv("data/cleaned_savings_data.csv")
     
     # Load historical transactions
-    historical_data <- read.csv("synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")
+    historical_data <- read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")
     historical_data$Date <- mdy(historical_data$Date)
     
     list(
@@ -152,13 +153,26 @@ server <- function(input, output, session) {
   
   # Plaid API Integration Logic
   observeEvent(input$link_button, {
+    # Ensure client_id and secret are retrieved correctly
+    client_id <- Sys.getenv("PLAID_PROD_CLIENT_ID")
+    secret <- Sys.getenv("PLAID_PROD_SECRET")
+    
+    # Debugging Step: Print values to check if they are empty
+    print(paste("Client ID:", client_id))
+    print(paste("Secret:", secret))
+    
+    if (client_id == "" || secret == "") {
+      showNotification("Plaid API credentials are missing. Check your environment variables.", type = "error")
+      return(NULL)
+    }
+    
     # Request Plaid Link token
     link_token_request <- httr::POST(
       url = "https://production.plaid.com/link/token/create",
       body = list(
-        client_id = Sys.getenv("PLAID_PROD_CLIENT_ID"),
-        secret = Sys.getenv("PLAID_PROD_SECRET"),
-        client_name = "Plaid Production Integration",
+        client_id = client_id,
+        secret = secret,
+        client_name = "OptiFinix",
         country_codes = list("US"),
         language = "en",
         user = list(client_user_id = "unique_user_id"),
@@ -167,16 +181,18 @@ server <- function(input, output, session) {
       encode = "json"
     )
     
-    # Debug and check for errors
-    print(content(link_token_request))
+    # Debug API response
+    response_content <- content(link_token_request, as = "parsed")
+    print(response_content)
     
-    link_token <- content(link_token_request)$link_token
-    if (!is.null(link_token)) {
-      session$sendCustomMessage("plaid_link_token", link_token)
+    if (!is.null(response_content$error_code)) {
+      showNotification(paste("Plaid API Error:", response_content$error_message), type = "error")
     } else {
-      showNotification("Failed to create Plaid Link token. Check API credentials.", type = "error")
+      link_token <- response_content$link_token
+      session$sendCustomMessage("plaid_link_token", link_token)
     }
   })
+  
   
   observeEvent(input$public_token, {
     # Exchange public token for access token

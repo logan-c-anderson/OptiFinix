@@ -1,11 +1,21 @@
 # Load required libraries
 library(shiny)
 library(DT)
+library(dplyr)
 
 # UI for Plaid Data Summary Module
 plaidDataSummaryModuleUI <- function(id) {
   ns <- NS(id)
   tagList(
+    fluidRow(
+      column(12,
+             div(
+               style = "background-color: #ffcc00; color: #333; padding: 10px; border-radius: 5px; text-align: center;",
+               strong("⚠️ Plaid data is currently unavailable because this app is running on a free developer plan.")
+             )
+      )
+    ),
+    br(),
     fluidRow(
       column(6, 
              h4("Account Summary"),
@@ -23,9 +33,14 @@ plaidDataSummaryModuleUI <- function(id) {
 plaidDataSummaryModule <- function(input, output, session, plaid_data) {
   ns <- session$ns
   
+  # Check if Plaid data is available
+  plaid_available <- reactive({
+    !is.null(plaid_data()$checking) || !is.null(plaid_data()$savings) || !is.null(plaid_data()$credit_card)
+  })
+  
   # Account Summary Table
   output$account_summary <- renderTable({
-    req(plaid_data())
+    req(plaid_available())  # Show only if Plaid data is available
     
     # Summarize number of accounts and total balances
     data <- plaid_data()
@@ -47,7 +62,7 @@ plaidDataSummaryModule <- function(input, output, session, plaid_data) {
   
   # Detailed Account Data Table
   output$account_details <- renderDT({
-    req(plaid_data())
+    req(plaid_available())  # Show only if Plaid data is available
     
     # Combine all account data into one table
     checking <- if (!is.null(plaid_data()$checking)) plaid_data()$checking %>% mutate(Type = "Checking") else NULL

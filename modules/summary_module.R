@@ -3,9 +3,15 @@ summaryModuleUI <- function(id) {
   tagList(
     fluidRow(
       # Info Boxes Row
-      column(4, uiOutput(ns("current_date_box"))),
-      column(4, uiOutput(ns("last_record_date_box"))),
-      column(4, uiOutput(ns("transactions_count_box")))
+      column(6, uiOutput(ns("current_date_box"))),
+      column(6, uiOutput(ns("transactions_count_box")))
+    ),
+    br(),
+    fluidRow(
+      # Monthly Financial Overview Row
+      column(4, uiOutput(ns("monthly_exps_to_inc_ratio"))),
+      column(4, uiOutput(ns("monthly_total_income"))),
+      column(4, uiOutput(ns("monthly_total_expenses")))
     ),
     br(),
     fluidRow(
@@ -65,20 +71,72 @@ summaryModule <- function(input, output, session, account_data, year_input, mont
     )
   })
   
-  # Info Box: Last Record Date
-  output$last_record_date_box <- renderUI({
-    req(account_data())  # Ensure account_data is available
-    req(account_data()$historical_transactions)  # Ensure historical_transactions is present
-    last_date <- round(mean(account_data()$historical_transactions$Amount, na.rm = TRUE,), digits = 2)
+  # Info Box: Monthly Expense-to-Income Ratio
+  output$monthly_exps_to_inc_ratio <- renderUI({
+    req(account_data(), year_input(), month_input())  # Ensure required inputs are available
+    data <- account_data()$historical_transactions
+    
+    # Filter data based on the selected year and month
+    year_selected <- as.numeric(year_input())
+    month_selected <- match(month_input(), month.name)
+    data <- data[year(data$Date) == year_selected & month(data$Date) == month_selected, ]
+    
+    # Calculate total income and expenses
+    total_income <- sum(data$Amount[data$Type == "Income"], na.rm = TRUE)
+    total_expenses <- sum(data$Amount[data$Type == "Expenses"], na.rm = TRUE)
+    
+    # Calculate Expense-to-Income Ratio
+    exp_to_inc_ratio <- ifelse(total_income > 0, (total_expenses / total_income) * 100, NA)
     
     div(
       class = "info-box",
-      style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px;",
-      h4("Average Transaction Amount"),
-      h3(ifelse(last_date == -Inf, "No Data Available", last_date))
+      style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; text-align: center;",
+      h4("Monthly Expense-to-Income Ratio"),
+      h3(ifelse(is.na(exp_to_inc_ratio), "No Data Available", paste0(round(exp_to_inc_ratio, 2), "%")))
     )
   })
   
+  # Info Box: Total Income for Selected Month
+  output$monthly_total_income <- renderUI({
+    req(account_data(), year_input(), month_input())  # Ensure required inputs are available
+    data <- account_data()$historical_transactions
+    
+    # Filter data based on the selected year and month
+    year_selected <- as.numeric(year_input())
+    month_selected <- match(month_input(), month.name)
+    data <- data[year(data$Date) == year_selected & month(data$Date) == month_selected, ]
+    
+    # Calculate total income
+    total_income <- sum(data$Amount[data$Type == "Income"], na.rm = TRUE)
+    
+    div(
+      class = "info-box",
+      style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; text-align: center;",
+      h4("Total Income for", month_input(), year_input()),
+      h3(ifelse(is.na(total_income), "No Data Available", paste0("$", formatC(total_income, format = "f", big.mark = ",", digits = 2))))
+    )
+  })
+  
+  # Info Box: Total Expenses for Selected Month
+  output$monthly_total_expenses <- renderUI({
+    req(account_data(), year_input(), month_input())  # Ensure required inputs are available
+    data <- account_data()$historical_transactions
+    
+    # Filter data based on the selected year and month
+    year_selected <- as.numeric(year_input())
+    month_selected <- match(month_input(), month.name)
+    data <- data[year(data$Date) == year_selected & month(data$Date) == month_selected, ]
+    
+    # Calculate total expenses
+    total_expenses <- sum(data$Amount[data$Type == "Expenses"], na.rm = TRUE)
+    
+    div(
+      class = "info-box",
+      style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; text-align: center;",
+      h4("Total Expenses for", month_input(), year_input()),
+      h3(ifelse(is.na(total_expenses), "No Data Available", paste0("$", formatC(total_expenses, format = "f", big.mark = ",", digits = 2))))
+    )
+  })
   
   # Info Box: Number of Transactions in Selected Year
   year_data <- reactive({
@@ -90,11 +148,11 @@ summaryModule <- function(input, output, session, account_data, year_input, mont
   })
   
   output$transactions_count_box <- renderUI({
-    transaction_count <- nrow(year_data())
+    transaction_count <- (nrow(read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")) - 1)
     div(
       class = "info-box",
       style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;",
-      h4("Transactions Tracked"),
+      h4("Total No. of Transactions Tracked"),
       h3(transaction_count)
     )
   })
