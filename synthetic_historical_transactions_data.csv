@@ -1,0 +1,1440 @@
+Date,Code,Type,Category,Details,Amount
+12/29/2021,ACH,Income,<Account Adjustment>,Starting Balance,453.54
+1/3/2022,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,1200
+1/3/2022,POS,Expenses,Credit Card,Paid off credit card,350
+1/3/2022,POS,Expenses,Credit Card,Paid off credit card,992.24
+1/6/2022,DEP,Income,Deposit TWO,GroceryPlus,429.87
+1/7/2022,POS,Expenses,Other,Venmo for Holiday Challenge,10.5
+1/10/2022,DEP,Income,Transfer from Other,Transfer from Dad,400
+1/12/2022,POS,Expenses,Credit Card,Paid off credit card,1000
+1/18/2022,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,1500
+1/18/2022,POS,Expenses,Credit Card,Paid off credit card,868.2
+1/24/2022,POS,Expenses,Education/Training,College University Tuition and Fees,5252.44
+1/24/2022,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,6000
+2/1/2022,POS,Expenses,Other,Accidental transfer from Big Savings Bank to Dad,100
+2/2/2022,POS,Expenses,Credit Card,Paid off credit card,274.08
+2/7/2022,DEP,Income,Transfer from Other,Accidental transfer from Big Savings Bank to Dad (reimbursment),100
+2/28/2022,POS,Expenses,Recreation,Venmo for Hotel in Grand Forks (Indoor TF Conference),21
+3/4/2022,POS,Expenses,Credit Card,Paid off credit card,766.05
+3/14/2022,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,2093
+3/25/2022,POS,Expenses,Credit Card,Paid off credit card,509.96
+3/28/2022,POS,Expenses,Other,Venmo for Garbussy,14.53
+3/28/2022,POS,Expenses,Recreation,Venmo for Rodzilla shirt,20
+4/11/2022,DEP,Income,Transfer from Other,Dad Reimbursing for Ice Cream in Sioux City with family Venmo,33.7
+4/11/2022,POS,Expenses,Recreation,Venmo for Ice Cream in Sioux City with family,33.7
+4/11/2022,POS,Expenses,Gas & Misc.,Venmo for gas to USD Meet (John Doe),10
+4/11/2022,POS,Expenses,Gas & Misc.,Venmo for gas to USD Meet (John Doe) again,10
+4/22/2022,POS,Expenses,Credit Card,Paid off credit card,342.24
+4/22/2022,POS,Expenses,Gas & Misc.,Venmo for gas to USD Meet (John Doe),4.6
+4/28/2022,POS,Expenses,Recreation,Venmo for pi hat in Des Moines (Carl Hanson),10
+5/2/2022,POS,Expenses,Recreation,Venmo for Taco Bell in Des Moines (Adam Smith),10
+5/2/2022,POS,Expenses,Gas & Misc.,Venmo for gas to Simpson Meet (Adam Smith),33
+5/4/2022,POS,Expenses,Education/Training,Venmo for Hobo Dough (Wyatt Ash),50
+5/6/2022,POS,Expenses,Education/Training,Venmo for Garmin watch (John Doe),90
+5/9/2022,POS,Expenses,Other,Spent money at Kohls,157.28
+5/9/2022,POS,Expenses,Other,Wrote Mom a check,30
+5/16/2022,POS,Expenses,Credit Card,Paid off credit card,594.45
+5/23/2022,DEP,Income,Transfer from Other,Venmo cashout,88.86
+5/23/2022,POS,Expenses,Recreation,Withdrew cash to buy Apple Watch,120
+5/27/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+5/27/2022,DEP,Income,Deposit Other,Deposit check from Mom,164
+5/31/2022,POS,Expenses,Other,Venmo for City Wide Rummage for Mom,5
+6/10/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+6/10/2022,POS,Expenses,Recreation,Venmo for Taco Bell (Emily Johnson),4.5
+6/13/2022,POS,Expenses,Credit Card,Paid off credit card,901.8
+6/21/2022,POS,Expenses,Credit Card,Paid off credit card,1238.6
+6/24/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+6/27/2022,DEP,Income,Transfer from Other,Venmo cashout,25
+6/28/2022,POS,Expenses,Health Care,Wrote a check to Dakota Dermatology,80
+7/6/2022,POS,Expenses,Credit Card,Paid off credit card,322.56
+7/8/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+7/13/2022,POS,Expenses,Recreation,Withdrew cash for something I can't remember,200
+7/18/2022,DEP,Income,Transfer from Other,Venmo cashout,50
+7/18/2022,DEP,Income,Transfer from Other,Transfer from Dad,2000
+7/22/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1238.2
+7/22/2022,POS,Expenses,Recreation,Venmo for coffee (Emily Johnson),3.5
+8/1/2022,POS,Expenses,Credit Card,Paid off credit card,741.1
+8/5/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+8/8/2022,POS,Expenses,Recreation,Venmo for Team Camp (Cleetus McFarmland),95
+8/9/2022,POS,Expenses,Other,Wrote Mom a check,61
+8/16/2022,POS,Expenses,Recreation,Venmo for pizza at Team Camp (Bob Roberts),7
+8/16/2022,POS,Expenses,Recreation,Venmo for pizza at Team Camp (Bob Roberts),1.5
+8/16/2022,POS,Expenses,Recreation,Venmo for pizza at Team Camp (Bob Roberts),2
+8/19/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1328.85
+9/1/2022,POS,Expenses,Credit Card,Paid off credit card,756.95
+9/2/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,90.67
+9/2/2022,POS,Expenses,Education/Training,College University Tuition and Fees,5635.29
+9/6/2022,DEP,Income,Transfer from Other,Venmo cashout,276.5
+9/6/2022,POS,Expenses,Recreation,Venmo for skydiving (Jane Doe),200
+9/6/2022,POS,Expenses,Recreation,Venmo for skydiving again (Jane Doe),100
+9/15/2022,POS,Expenses,Recreation,Venmo for bread (Bob Roberts),4
+9/16/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,231.2
+9/26/2022,DEP,Income,Transfer from Other,Venmo cashout,50
+9/26/2022,POS,Expenses,Recreation,Venmo for pizza after duck hunting (Cleetus McFarmland),4
+9/26/2022,POS,Expenses,Credit Card,Paid off credit card,345.46
+9/30/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,213.06
+10/13/2022,POS,Expenses,Recreation,Venmo for skydiving pictures/video (Jane Doe),20
+10/14/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,235.73
+10/17/2022,DEP,Income,Transfer from Other,Venmo cashout,40
+10/17/2022,POS,Expenses,Gas & Misc.,"Venmo for gas to Platte River Rumble in Omaha, NE (Adam Smith)",16.01
+10/17/2022,POS,Expenses,Credit Card,Paid off credit card,391.77
+10/24/2022,POS,Expenses,Recreation,Venmo for haunted house in Brookings (Jane Doe),25
+10/26/2022,DEP,Income,Transfer from Other,Venmo cashout,57.5
+10/26/2022,POS,Expenses,Groceries,Venmo for Walmart run (John Doe),13
+10/27/2022,DEP,Income,Transfer from Other,Transfer from Dad (Dr. Levi),30
+10/28/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,172.27
+11/1/2022,POS,Expenses,Other,Tranfer to Dad (House Payment mistake),1000
+11/3/2022,POS,Expenses,Credit Card,Paid off credit card,586.61
+11/3/2022,POS,Expenses,Recreation,Venmo for Collgege XC/TF hat (Will Letterman),22
+11/4/2022,DEP,Income,Transfer from Other,Tranfer from Dad (House Payment mistake),1500
+11/10/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,199.47
+11/14/2022,POS,Expenses,Gas & Misc.,"Venmo for gas to Regionals XC Meet Columbia, MO (Nate Notgrass)",45
+11/16/2022,POS,Expenses,Rent,Venmo for first half of house deposit for the house (Daniel Burkhalter),175
+11/22/2022,POS,Expenses,Other,Accidental transfer from savings,100
+11/23/2022,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),5
+11/23/2022,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),5
+11/23/2022,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),5
+11/23/2022,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),5
+11/25/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,294.66
+11/25/2022,DEP,Income,Transfer from Other,Venmo cashout,22.6
+12/1/2022,DEP,Income,Transfer from Other,Venmo cashout,10
+12/1/2022,POS,Expenses,Other,Venmo for Project Joy (Ben Olson),10
+12/2/2022,POS,Expenses,Other,Wrote a check to Clerk of Courts (speeding ticket),117.5
+12/5/2022,DEP,Income,Transfer from Other,Accidental transfer from savings reimbursement (Dad),100
+12/5/2022,POS,Expenses,Gas & Misc.,Venmo for gas (I think) (Jane Doe),50
+12/5/2022,POS,Expenses,Gas & Misc.,Venmo for gas (I think) again (Jane Doe),25
+12/5/2022,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),8
+12/8/2022,POS,Expenses,Credit Card,Paid off credit card,496.41
+12/9/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,181.33
+12/19/2022,DEP,Income,Transfer from Other,Venmo cashout,64
+12/19/2022,POS,Expenses,Other,Wrote Mom a check,100
+12/23/2022,DEP,Income,Deposit ONE,Corporate Industries Paycheck,575
+12/27/2022,POS,Expenses,Credit Card,Paid off credit card,327.64
+12/28/2022,DEP,Income,Deposit Other,Deposit check from College University and Christmas $100,600
+12/29/2022,POS,Expenses,Education/Training,Credit card for Coursera SQL Course and Chegg bill,62.79
+1/1/2023,POS,Expenses,Recreation,Venmo for unicorn pinata (Jane Doe),20
+1/6/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1207.46
+1/9/2023,POS,Expenses,Groceries,Groceries at Walmart,34.79
+1/9/2023,POS,Expenses,Credit Card,Paid off credit card,60.34
+1/13/2023,DEP,Income,Deposit Other,Venmo cashout,30
+1/13/2023,POS,Expenses,Other,Venmo for door mat (Brandon Clausen),13
+1/17/2023,DEP,Income,Deposit Other,Venmo cashout,27
+1/18/2023,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,1800
+1/20/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,772.36
+1/20/2023,POS,Expenses,Education/Training,College University Tuition and Fees,5325.6
+1/25/2023,POS,Expenses,Groceries,Venmo for Oreos (John Doe),2
+1/27/2023,POS,Expenses,Recreation,Venmo for Dragonflys (Rod DeHaven),96
+1/30/2023,POS,Expenses,Credit Card,Paid off credit card,25
+1/31/2023,DEP,Income,Deposit Other,Venmo cashout,77
+1/31/2023,POS,Expenses,Chegg,Venmo for something and chegg (Jane Doe),45
+2/3/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,339.99
+2/8/2023,DEP,Income,Deposit Other,First Money Bank Rewards,525
+2/8/2023,POS,Expenses,Credit Card,Paid off credit card,483.5
+2/10/2023,DEP,Income,Deposit Other,Deposit cash,112.46
+2/14/2023,POS,Expenses,Gas & Misc.,New tires and gas,1028.84
+2/17/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,835.4
+3/3/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,438.85
+3/7/2023,POS,Expenses,Credit Card,Paid off credit card,574.35
+3/10/2023,POS,Expenses,Groceries,Venmo for groceries for spring break (Jane Doe),73
+3/13/2023,POS,Expenses,Other,Bought something at a gas station,1.94
+3/15/2023,POS,Expenses,Recreation,Venmo for skiing in Arizona (Jane Doe),165
+3/15/2023,POS,Expenses,Groceries,Venmo for groceries for spring break (Jane Doe),74
+3/15/2023,POS,Expenses,Dining Out,Venmo for green chili burger in Arizona (Jane Doe),18
+3/15/2023,POS,Expenses,Recreation,Venmo for AZ Snow Bowl sweatshirt (John Doe),57
+3/17/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,384
+3/20/2023,DEP,Income,Deposit Other,Venmo cashout,20
+3/20/2023,DEP,Income,Deposit Other,Venmo cashout,107.71
+3/20/2023,POS,Expenses,Recreation,Root beer float for Jane,5.53
+3/20/2023,POS,Expenses,Dining Out,Venmo for Chipotle (Jane Doe),7
+3/20/2023,POS,Expenses,Gas & Misc.,Venmo for gas for spring break (Jane Doe),267.98
+3/20/2023,POS,Expenses,Credit Card,Paid off credit card,265.53
+3/23/2023,POS,Expenses,Recreation,Bought a cupcake for Dad's birthday (Colorado),4.88
+3/25/2023,POS,Expenses,Apple Music,Apple Music,6.38
+3/26/2023,POS,Expenses,Recreation,Bought Taco Bell,5.38
+3/27/2023,POS,Expenses,Chegg,Chegg,21.25
+3/30/2023,POS,Expenses,Gas & Misc.,Gas,50
+3/31/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,438.83
+4/3/2023,POS,Expenses,Gas & Misc.,Gas,35
+4/4/2023,ACH,Savings,Big Savings Bank,Transfer to savings,800
+4/5/2023,POS,Expenses,Education/Training,USD Early Bird registration fee,29
+4/6/2023,POS,Expenses,Dining Out,Venmo for Hy-Chi (Jane Doe),5.37
+4/7/2023,POS,Expenses,Groceries,Groceries - GroceryMart,9.24
+4/7/2023,POS,Expenses,Groceries,Bought Body Armour for race,3.51
+4/10/2023,DEP,Income,Deposit Other,Venmo cashout,10
+4/10/2023,POS,Expenses,Recreation,Bought sandwhich at Jimmy John's,8.58
+4/10/2023,POS,Expenses,Recreation,Venmo for cheeseball (John Doe),0.11
+4/10/2023,POS,Expenses,Recreation,Bought supper in Verm with John Doe (Old Lumber Co.),16.75
+4/10/2023,POS,Expenses,Gas & Misc.,Gas,50
+4/10/2023,POS,Expenses,Other,Venmo for Mom's birthday gift (Menards giftcard) (Caden Lackey),25
+4/10/2023,POS,Expenses,Gas & Misc.,Gas,61
+4/10/2023,POS,Expenses,Recreation,Venmo for losing at Easter poker (Ella Doe),5
+4/11/2023,POS,Expenses,Dining Out,Venmo for Applebees (Jane Doe),0.01
+4/11/2023,DEP,Income,Deposit Other,Venmo cashout,10.02
+4/11/2023,POS,Expenses,Gas & Misc.,College University Parking ticket,25
+4/11/2023,POS,Expenses,Dining Out,Went to Applebees,44.72
+4/12/2023,POS,Expenses,Recreation,Bought Icee at Caseys,1.39
+4/12/2023,POS,Expenses,Groceries,Bought ice at Walmart,4.88
+4/12/2023,POS,Expenses,Groceries,Venmo for contact solution (Jane Doe),19
+4/14/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,249.35
+4/17/2023,DEP,Income,Deposit Other,Deposit check from Mom,100
+4/17/2023,DEP,Income,Transfer from Savings,Closed First Money Bank Savings Account,301.22
+4/17/2023,POS,Expenses,Groceries,Venmo for beef and broccoli (Jane Doe),11.53
+4/17/2023,POS,Expenses,Groceries,Venmo for Ice Cream (Jane Doe),6
+4/20/2023,POS,Expenses,Recreation,ATM withdrawal to buy gravel bike,450
+4/20/2023,POS,Expenses,Gas & Misc.,Gas,40
+4/20/2023,POS,Expenses,Health Care,Eye Doctor,586.4
+4/20/2023,POS,Expenses,Gas & Misc.,Gas,56.8
+4/20/2023,POS,Expenses,Health Care,Eye doctor co-pay,89
+4/24/2023,DEP,Income,Transfer from Other,Transfer from Dad (eye doctor),550
+4/24/2023,POS,Expenses,Recreation,Venmo sparkling water (Brandon Clausen) ,4
+4/24/2023,POS,Expenses,Gas & Misc.,Gas,50
+4/24/2023,POS,Expenses,Recreation,Bought drink at gas station,3.4
+4/24/2023,POS,Expenses,Gas & Misc.,Gas,18.87
+4/25/2023,POS,Expenses,Education/Training,Race entry fee for Kip Janvrin Invite,34
+4/24/2023,POS,Expenses,Apple Music,Apple Music,6.38
+4/26/2023,POS,Expenses,Gas & Misc.,Parking ticket,30
+4/27/2023,POS,Expenses,Chegg,Chegg,21.25
+4/27/2023,POS,Expenses,Recreation,Venmo for Body Armor (Cooper Greenslade),3.69
+4/28/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,498.1
+4/28/2023,POS,Expenses,Gas & Misc.,Venmo for gas money (Josh Becker),18.69
+4/28/2023,POS,Expenses,Recreation,Bought Tato-Lays in Des Moines,2.78
+4/28/2023,POS,Expenses,Recreation,Bought Taco Bell,10.63
+4/28/2023,POS,Expenses,Recreation,Bought Jimmy John's,10.37
+4/28/2023,POS,Expenses,Gas & Misc.,Gas,4
+4/29/2023,POS,Expenses,Groceries,Bought chicken breast and pesto sauce packet,10.65
+5/1/2023,DEP,Income,Deposit Other,Venmo cashout,31.69
+5/1/2023,DEP,Income,Transfer from Savings,Empties savings account,0.02
+5/2/2023,POS,Expenses,Education/Training,USD Tune Up entry fee,29
+5/3/2023,POS,Expenses,Recreation,Bought Cadburry Eggs for Jane,21.29
+5/5/2023,POS,Expenses,Gas & Misc.,Gas,53.08
+5/5/2023,POS,Expenses,Recreation,TC Summerfest tickets (Imagine Dragons concert)(bought for everyone),825
+5/5/2023,POS,Expenses,Recreation,TC Summerfest tickets (Imagine Dragons concert)(bought for Elizabeth),275
+5/5/2023,DEP,Income,Deposit Other,Venmo cashout,4.2
+5/7/2023,POS,Expenses,Gas & Misc.,Gas,40
+5/7/2023,POS,Expenses,Gas & Misc.,Gas,10
+5/7/2023,POS,Expenses,Recreation,Bought $5 shirt at Men's Wearhouse,5.29
+5/8/2023,POS,Expenses,Recreation,Bought Birks at Scheels (wrong size),118.45
+5/8/2023,POS,Expenses,Recreation,Traded in Birks for different model,10.6
+5/8/2023,DEP,Income,Deposit Other,Scheels refund for spring break hiking pants,42.59
+5/8/2023,DEP,Income,Deposit Other,Venmo cashout,825
+5/8/2023,POS,Expenses,Groceries,Bought yogurt at Sam's Club,29.03
+5/9/2023,POS,Expenses,Recreation,"Bought Birk ""goop""",10.65
+5/9/2023,POS,Expenses,Health Care,Chiropractor,30
+5/11/2023,POS,Expenses,Recreation,Bought something at Scheels,21.29
+5/11/2023,POS,Expenses,Recreation,Coffee,5.86
+5/12/2023,POS,Expenses,Health Care,Dakota Dermatology,30
+5/12/2023,POS,Expenses,Gas & Misc.,Gas,50
+5/12/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,274.28
+5/14/2023,POS,Expenses,Groceries,Bought dry black beans,5.87
+5/15/2023,POS,Expenses,Haircuts,Haircut,23.11
+5/16/2023,POS,Expenses,Recreation,Bought a hammock,74.5
+5/16/2023,POS,Expenses,Gas & Misc.,Oil change,47.91
+5/17/2023,POS,Expenses,Gas & Misc.,Gas,50
+5/17/2023,POS,Expenses,Recreation,Bought correct hammock,47.87
+5/17/2023,DEP,Income,Deposit Other,Scheels refund for hammock,15.98
+5/22/2023,POS,Expenses,Groceries,Bought drinks at Caysey's,8.86
+5/25/2023,POS,Expenses,Apple Music,Apple Music,6.38
+5/25/2023,POS,Expenses,Rent,Rest of Security Depost (the house),175
+5/26/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1598.42
+5/26/2023,POS,Expenses,Gas & Misc.,Gas,50
+5/27/2023,POS,Expenses,Recreation,Bought stuff for planting basil,11.26
+5/27/2023,POS,Expenses,Recreation,Potting stuff at Dollar Store,23.96
+5/28/2023,POS,Expenses,Recreation,Potting stuff at ACE,13.83
+5/30/2023,POS,Expenses,Groceries,Bought a coffee,4.04
+5/30/2023,POS,Expenses,Dining Out,Went to Qdoba,13.12
+5/31/2023,ACH,Savings,Big Savings Bank,Transfer to savings,700
+6/1/2023,POS,Expenses,Dining Out,Got ice cream,9.6
+6/2/2023,POS,Expenses,Groceries,Bought a coffee,4.04
+6/4/2023,POS,Expenses,Other,Bought Mom Tuna,1.86
+6/4/2023,POS,Expenses,Groceries,Bought a sparkling water,1.27
+6/8/2023,POS,Expenses,Rent,Rent (June),350
+6/9/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,556.76
+6/10/2023,POS,Expenses,Other,Bought a mattress,212.99
+6/10/2023,POS,Expenses,Groceries,Bought pesto stuff at GroceryPlus,12.28
+6/10/2023,POS,Expenses,Recreation,Bought a coffee at Sioux Falls Farmer's Market,7.34
+6/11/2023,POS,Expenses,Other,Bought Dad a Father's Day card,4.25
+6/13/2023,POS,Expenses,Recreation,Bought Noah Kahan ticket with Andrew,81.1
+6/15/2023,DEP,Income,Deposit TWO,Engineering Inc,1077.41
+6/16/2023,POS,Expenses,Groceries,Bought Dad grapefruit sparkling waters,4.25
+6/16/2023,POS,Expenses,Groceries,Groceries - Walmart,17.23
+6/16/2023,POS,Expenses,Other,Bought Dad a Father's Day gift,26.41
+6/16/2023,POS,Expenses,Recreation,Bought Clothes at Plato's Closet,22.52
+6/22/2023,POS,Expenses,Groceries,Got ice cream,4.26
+6/23/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,561.65
+6/23/2023,POS,Expenses,Groceries,Bought deodorant,5.31
+6/23/2023,POS,Expenses,Other,Bought Dad a Salted Nut Roll,3.18
+6/23/2023,POS,Expenses,Dining Out,Got ice cream,16.17
+6/24/2023,POS,Expenses,Recreation,Bought a swimsuit at Walmart,9.56
+6/24/2023,POS,Expenses,Recreation,Bought a chocolate bar and bowls to pick strawberries,2.47
+6/25/2023,POS,Expenses,Groceries,Bought stuff for skillet nachos,20.5
+6/25/2023,POS,Expenses,Groceries,Bought Powerade and Bubblr for the school year,53.28
+6/25/2023,POS,Expenses,Apple Music,Apple Music,6.38
+6/25/2023,POS,Expenses,Gas & Misc.,Gas,50
+6/26/2023,POS,Expenses,Gifts,One year anniversary dinner,46.37
+6/26/2023,POS,Expenses,Other,Wrote Mom a check,100
+6/28/2023,DEP,Income,Deposit Other,Venmo cashout,10
+6/30/2023,DEP,Income,Deposit TWO,Engineering Inc,1162.87
+6/30/2023,ACH,Savings,Big Savings Bank,Transfer to savings,1500
+7/5/2023,POS,Expenses,Rent,Rent (July),350
+7/5/2023,POS,Expenses,Gas & Misc.,Gas,60
+7/6/2023,POS,Expenses,Recreation,Went to Subway,7.87
+7/6/2023,POS,Expenses,Groceries,Groceries at Walmart,27.42
+7/7/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,507.88
+7/7/2023,ACH,Savings,Big Savings Bank,Transfer to savings,660
+7/7/2023,POS,Expenses,Gas & Misc.,Gas,52
+7/8/2023,POS,Expenses,Dining Out,Date night with Jane,49.51
+7/8/2023,POS,Expenses,Recreation,Coffee,10.97
+7/11/2023,POS,Expenses,Fitness,Bought new running shoes,144.92
+7/11/2023,POS,Expenses,Recreation,Bought biking shorts,44.58
+7/12/2023,POS,Expenses,Recreation,Bike tune up,75
+7/14/2023,DEP,Income,Deposit TWO,Engineering Inc,1174.28
+7/14/2023,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,18.03
+7/14/2023,POS,Expenses,Other,Rug Doctor for the house,54.14
+7/14/2023,POS,Expenses,Gas & Misc.,Gas,50
+7/15/2023,POS,Expenses,Recreation,Ate at 5 Guys in Minneapolis,12.66
+7/17/2023,POS,Expenses,Recreation,Venmo for Juniors in Minneapolis (John Doe),13
+7/17/2023,POS,Expenses,Groceries,Venmo for gas station bevs (John Doe),4
+7/17/2023,POS,Expenses,Recreation,Venmo for Ball Park Brat (John Doe),12
+7/17/2023,POS,Expenses,Gas & Misc.,Venmo for gas (John Doe),16.34
+7/17/2023,POS,Expenses,Recreation,Venmo for dough nuts (John Doe),4
+7/17/2023,ACH,Savings,Big Savings Bank,Transfer to savings,600
+7/17/2023,DEP,Income,Deposit Other,Venmo cashout,27.5
+7/17/2023,DEP,Income,Deposit Other,First Money Bank Rewards,25
+7/18/2023,POS,Expenses,Recreation,Went to Starbucks,11.68
+7/19/2023,POS,Expenses,Gas & Misc.,Gas,50
+7/21/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,639.85
+7/22/2023,POS,Expenses,Gas & Misc.,Gas,50
+7/22/2023,POS,Expenses,Recreation,PepperJax in Omaha,15.32
+7/23/2023,POS,Expenses,Recreation,Bought Jimmy John's,9.13
+7/24/2023,POS,Expenses,Groceries,Bought food at gas station,7.81
+7/24/2023,POS,Expenses,Gas & Misc.,Gas,20
+7/24/2023,POS,Expenses,Gas & Misc.,Gas,50
+7/24/2023,POS,Expenses,Other,Withdrew money for kayak (didn't buy),100
+7/24/2023,POS,Expenses,Gifts,Bought Jane birthday present (Vuori shorts),42
+7/24/2023,ACH,Savings,Big Savings Bank,Transfer to savings,250
+7/25/2023,DEP,Income,Deposit Other,Deposit money for kayak (didn't buy),100
+7/25/2023,POS,Expenses,Apple Music,Apple Music,6.36
+7/6/2023,POS,Expenses,Dining Out,Went to Pita Pit,22.49
+7/26/2023,POS,Expenses,Recreation,Bike tune up,193.67
+7/27/2023,POS,Expenses,Dining Out,Went to Dairy Queen,11.88
+7/28/2023,POS,Expenses,Other,Bought spray paint at ACE,15.92
+7/28/2023,DEP,Income,Deposit Other,Deposit check from Happy Health Hospital,30
+7/29/2023,POS,Expenses,Other,Bought new phone case,28.65
+7/30/2023,POS,Expenses,Recreation,Bought Mom a sundae,4.37
+7/30/2023,POS,Expenses,Other,Bought more spray paint,13.76
+7/30/2023,POS,Expenses,Haircuts,Haircut,31
+7/30/2023,POS,Expenses,Other,Bought aphid spray at ACE,16.97
+7/31/2023,DEP,Income,Deposit TWO,Engineering Inc,820.21
+7/31/2023,POS,Expenses,Groceries,Bought a Celcius at work,3.28
+8/1/2023,ACH,Savings,Big Savings Bank,Transfer to savings,750
+8/3/2023,POS,Expenses,Groceries,Venmo for pesto stuff (Jane Doe),11
+8/3/2023,POS,Expenses,Utilities,Venmo for utilities (June) (Daniel Burkhalter),20.11
+8/3/2023,POS,Expenses,Rent,Rent (August),350
+8/4/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,471.76
+8/4/2023,ACH,Savings,Big Savings Bank,Transfer to savings,300
+8/4/2023,POS,Expenses,Gifts,Bought Kara Paulson a Diet Coke on last day of CAPITAL,2.54
+8/7/2023,DEP,Income,Deposit Other,Venmo cashout,3.2
+8/7/2023,POS,Expenses,Recreation,Venmo for movie theater candy (Jane Doe),3.2
+8/7/2023,POS,Expenses,Recreation,Hot Yoga,19.12
+8/8/2023,POS,Expenses,Gas & Misc.,Oil change,64.73
+8/8/2023,POS,Expenses,Gas & Misc.,Gas,68.51
+8/9/2023,POS,Expenses,Groceries,Groceries - Costco,124.7
+8/11/2023,POS,Expenses,Other,Bought bed frame (returned),74.33
+8/12/2023,POS,Expenses,Gas & Misc.,Gas,50
+8/14/2023,POS,Expenses,Groceries,Bought tea at gas station on the way to Bozeman,2.02
+8/15/2023,DEP,Income,Deposit TWO,Engineering Inc,1160.35
+8/15/2023,POS,Expenses,Groceries,Bought lunch at Walmart in Bozeman,14.97
+8/15/2023,POS,Expenses,Dining Out,Got ice cream,14.95
+8/15/2023,POS,Expenses,Recreation,Got coffee,7.15
+8/16/2023,POS,Expenses,Recreation,Bought new Goodrs,25
+8/16/2023,POS,Expenses,Dining Out,Paid for lunch with Paxton and Jane,70.71
+8/18/2023,POS,Expenses,Gifts,Bought Dad Huckleberry Tea,14.58
+8/18/2023,POS,Expenses,Groceries,Bought bag of coffee in Bozeman,17.6
+8/18/2023,POS,Expenses,Gifts,"Bought ""Hangry"" towel",13
+8/18/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1064.33
+8/18/2023,POS,Expenses,Other,Venmo for sandwich stuff (Jane Doe),10.47
+8/19/2023,POS,Expenses,Education/Training,Bought school supplies,20.86
+8/19/2023,POS,Expenses,Gas & Misc.,Bought food at gas station,10.27
+8/20/2023,POS,Expenses,Groceries,Groceries - GroceryMart,60.6
+8/20/2023,POS,Expenses,Groceries,Groceries - Walmart,76.28
+8/20/2023,POS,Expenses,Groceries,Groceries - Walmart,37.53
+8/21/2023,POS,Expenses,Groceries,Groceries - GroceryMart,2.64
+8/21/2023,POS,Expenses,Groceries,Groceries - GroceryMart,39.76
+8/24/2023,POS,Expenses,Groceries,Groceries - Walmart,9.88
+8/24/2023,DEP,Income,Transfer from Savings,Transfer from savings,2900
+8/24/2023,POS,Expenses,Education/Training,College University Tuition and Fees,3876.8
+8/25/2023,POS,Expenses,Apple Music,Apple Music,6.36
+8/26/2023,POS,Expenses,Groceries,Groceries - GroceryMart,5.3
+8/26/2023,POS,Expenses,Groceries,Groceries - Walmart,12.21
+8/27/2023,POS,Expenses,Groceries,Groceries - GroceryMart,37.76
+8/27/2023,POS,Expenses,Gas & Misc.,Gas,50
+8/28/2023,POS,Expenses,Recreation,Venmo for jukebox (Caden Lackey),3.5
+8/28/2023,DEP,Income,Deposit Other,Venmo cashout,51.5
+8/28/2023,POS,Expenses,Dining Out,Venmo for breakfast muffins (Jane Doe),3.18
+8/30/2023,POS,Expenses,Health Care,Chiropractor,30
+8/30/2023,POS,Expenses,Gas & Misc.,Gas,60
+8/31/2023,DEP,Income,Deposit TWO,Engineering Inc,617.72
+9/1/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,791.41
+9/1/2023,POS,Expenses,Dining Out,Went to Tropical Smoothie,6.64
+9/3/2023,POS,Expenses,Other,Bought new shoes,153.99
+9/5/2023,DEP,Income,Deposit Other,Deposit check from Mom,100
+9/5/2023,ACH,Savings,Big Savings Bank,Transfer to savings,1007.1
+9/5/2023,POS,Expenses,Utilities,Utilities (July),35.4
+9/5/2023,POS,Expenses,Other,Bought Andrew Milk,3.31
+9/5/2023,POS,Expenses,Groceries,Groceries - Walmart,18.52
+9/6/2023,POS,Expenses,Rent,Rent (September),350
+9/6/2023,POS,Expenses,Groceries,Groceries - Walmart,24.03
+9/7/2023,POS,Expenses,Groceries,Groceries - GroceryMart,29.21
+9/7/2023,POS,Expenses,Other,One Day For State,5
+9/8/2023,POS,Expenses,Recreation,Poker night,10
+9/9/2023,POS,Expenses,Gas & Misc.,Gas,50
+9/10/2023,POS,Expenses,Gas & Misc.,Gas,50
+9/11/2023,POS,Expenses,Groceries,Groceries - GroceryMart,107.54
+9/12/2023,POS,Expenses,Health Care,doctor,30
+9/12/2023,DEP,Income,Deposit Other,Venmo cashout,68
+9/13/2023,POS,Expenses,Groceries,Groceries - GroceryMart,13.77
+9/13/2023,POS,Expenses,Groceries,Groceries - Walmart,7.16
+9/15/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,477.24
+9/15/2023,POS,Expenses,Recreation,Went to Tropical Smoothie,13.69
+9/15/2023,POS,Expenses,Gas & Misc.,Gas,50
+9/17/2023,POS,Expenses,Groceries,Groceries - GroceryMart,14.85
+9/17/2023,POS,Expenses,Groceries,Groceries - Walmart,14.23
+9/18/2023,DEP,Income,Deposit Other,Venmo cashout,10
+9/18/2023,DEP,Income,Deposit Other,Venmo cashout,17
+9/19/2023,POS,Expenses,Other,Added Hobo Dough,5
+9/21/2023,POS,Expenses,Groceries,Groceries - GroceryMart,30.08
+9/22/2023,POS,Expenses,Groceries,Groceries - GroceryMart,27.07
+9/23/2023,POS,Expenses,Groceries,Groceries - Walmart,12.19
+9/23/2023,POS,Expenses,Groceries,Bought coffee,20.15
+9/25/2023,POS,Expenses,Dining Out,Went to Chic-Fil-A,19.59
+9/25/2023,POS,Expenses,Apple Music,Apple Music,6.36
+9/25/2023,DEP,Income,Deposit Other,Venmo cashout,8
+9/29/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,367.51
+9/28/2023,POS,Expenses,Groceries,Bought phone case and gronola bars,54.51
+9/29/2023,POS,Expenses,Education/Training,Datacamp Subscription,149
+9/30/2023,POS,Expenses,Groceries,Groceries - Walmart,13.09
+10/1/2023,POS,Expenses,Dining Out,Went to Juice Stop,13.4
+10/1/2023,POS,Expenses,Gas & Misc.,Gas,30
+10/1/2023,POS,Expenses,Other,Bought phone charger at Verizon,29.69
+10/2/2023,POS,Income,Deposit Other,Venmo cashout,14
+10/3/2023,POS,Expenses,Rent,Rent (October),350
+10/3/2023,POS,Expenses,Groceries,Groceries - Walmart,24.35
+10/5/2023,POS,Expenses,Groceries,Groceries - Walmart,85.69
+10/5/2023,DEP,Income,Deposit Other,Venmo cashout,70
+10/5/2023,POS,Expenses,Groceries,Pay Jane back for overpaying me (Jane Doe),7
+10/5/2023,POS,Expenses,Other,Bought Cleetus's old Garmin 645 (Cleetus McFarmland),50
+10/9/2023,POS,Expenses,Recreation,local fair 5K,33.11
+10/9/2023,POS,Expenses,Recreation,local fair 5K (Jane),33.11
+10/11/2023,POS,Expenses,Gas & Misc.,Gas,50
+10/11/2023,DEP,Income,Deposit Other,Venmo cashout,34
+10/12/2023,POS,Expenses,Dining Out,Venmo for pizza (Emily Johnson),6
+10/13/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,902.19
+10/14/2022,POS,Expenses,Recreation,Bought Life Is Good sweatshirt,66.38
+10/15/2023,POS,Expenses,Groceries,Groceries - GroceryMart,58.36
+10/16/2023,DEP,Income,Deposit Other,Venmo cashout,67
+10/16/2023,POS,Expenses,Recreation,Venmo for McDonald's (Jane Doe),27
+10/16/2023,POS,Expenses,Recreation,Venmo for McDonald's (Jane Doe),11
+10/16/2023,POS,Expenses,Dining Out,Venmo for Papa John's (Jane Doe),6
+10/18/2023,POS,Expenses,Gas & Misc.,Gas,45
+10/18/2023,POS,Expenses,Groceries,Bought cold medicine from GroceryPlus,12.73
+10/20/2023,POS,Expenses,Recreation,Metallica tickets fee,56
+10/20/2023,POS,Expenses,Groceries,Groceries - GroceryMart,13.91
+10/20/2023,POS,Expenses,Recreation,Ticketmaster Fee (Metallica),130.4
+10/20/2023,POS,Expenses,Recreation,Metallica Tickets (Ticketmaster),488.37
+10/21/2023,POS,Expenses,Recreation,Bought new bike tires,112.55
+10/23/2023,POS,Expenses,Health Care,Prescription for cold,2.86
+10/23/2023,POS,Expenses,Recreation,Venmo for Poker Night (Brandon Clausen),10
+10/24/2023,POS,Expenses,Dining Out,Bought dirty chai latte at Coffee Town,7.5
+10/25/2023,POS,Expenses,Groceries,Groceries - Walmart,37.72
+10/27/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,600.76
+10/27/2023,POS,Expenses,Apple Music,Apple Music,6.36
+10/27/2023,POS,Expenses,Groceries,Groceries - Walmart,40.93
+10/28/2023,POS,Expenses,Dining Out,Hot cocoa at Coffee Town,6.31
+10/29/2023,POS,Expenses,Gas & Misc.,Gas,45
+10/30/2023,POS,Expenses,Groceries,Bought veggies for Bible study (Halloween),16.98
+10/30/2023,DEP,Income,Deposit Other,Venmo cashout,20
+11/1/2023,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,1000
+11/1/2023,POS,Expenses,Utilities,Utilities (August),57.54
+11/1/2023,POS,Expenses,Fitness,Hot Yoga,19.12
+11/3/2023,POS,Expenses,Groceries,Groceries - Walmart,11.68
+11/3/2023,POS,Expenses,Groceries,Bought beans and tea stuff on Amazon,110.24
+11/3/2023,POS,Expenses,Rent,Rent (November),350
+11/4/2023,POS,Expenses,Other,Amazon Prime monthly fee (accidentally signed up),7.95
+11/7/2023,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),2.5
+11/7/2023,POS,Expenses,Dining Out,Venmo for breakfast (Jane Doe),4
+11/7/2023,POS,Expenses,Groceries,Groceries - GroceryMart,69.93
+11/8/2023,POS,Expenses,Dining Out,Went to Subway,6.92
+11/9/2023,POS,Expenses,Other,Refund for accidental Amazon Prime membership,-7.95
+11/9/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,688.74
+11/9/2023,POS,Expenses,Student Loans,Student loan payment,1013.95
+11/10/2023,POS,Expenses,Gas & Misc.,Gas,50
+11/11/2023,POS,Expenses,Dining Out,Went to Vinyl Taco,28.23
+11/11/2023,POS,Expenses,Gas & Misc.,Gas,40
+11/14/2023,POS,Expenses,Groceries,Groceries - Walmart,4.69
+11/14/2023,POS,Expenses,Gas & Misc.,Gas,50
+11/15/2023,POS,Expenses,Groceries,Groceries - Walmart,7
+11/20/2023,DEP,Income,Deposit Other,Venmo cashout,4
+11/21/2023,POS,Expenses,Fitness,Bought tubless tire stuff,70.04
+11/21/2023,POS,Expenses,Dining Out,Venmo for dough nuts (Jane Doe),2
+11/21/2023,POS,Expenses,Dining Out,Venmo for Hy-Chi (Jane Doe),9
+11/21/2023,POS,Expenses,Dining Out,Venmo for Tropical Smoothie (Jane Doe),3.75
+11/24/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,766.96
+11/24/2023,POS,Expenses,Recreation,Bought jeans on Black Friday (American Eagle),81.7
+11/25/2023,POS,Expenses,Gifts,Green Day tickets fee or insurance?,27
+11/15/2023,POS,Expenses,Gifts,Green Day tickets,260.77
+11/25/2023,POS,Expenses,Gifts,Christmas gifts for Sean and Vic,21.18
+11/25/2023,POS,Expenses,Apple Music,Apple Music,6.36
+11/26/2023,POS,Expenses,Groceries,Groceries - GroceryMart,34.57
+11/26/2023,DEP,Income,Deposit Other,Refund for jeans (American Eagle),44.56
+11/26/2023,POS,Expenses,Dining Out,Bought Starbucks for me and Dad,11.93
+11/28/2023,POS,Expenses,Groceries,Groceries - Walmart,10.66
+11/29/2023,POS,Expenses,Gifts,Bought Christmas gifts for Sean and Vic,55.19
+11/29/2023,POS,Expenses,Gifts,Bought Christmas gifts for Jane's family,95.52
+12/1/2023,POS,Expenses,Groceries,Groceries - GroceryMart,67.67
+12/1/2023,POS,Expenses,Gifts,Bought Mom and Dad Barbie towel for Christmas,23.3
+12/1/2023,POS,Expenses,Gas & Misc.,Gas,50
+12/1/2023,POS,Expenses,Recreation,Venmo for ticket to the new Hunger Games movie with Jane (Jane Doe),10
+12/2/2023,POS,Expenses,Groceries,Groceries - Walmart,5.7
+12/2/2023,POS,Expenses,Groceries,Groceries - Walmart,2.38
+12/4/2023,DEP,Income,Deposit Other,Deposited cash,20
+12/4/2023,POS,Expenses,Utilities,Utilities (September),61.98
+12/4/2023,POS,Expenses,Rent,Rent (December),350
+12/4/2023,POS,Expenses,Gifts,National Parks pass for Jane Christmas present,85
+12/6/2023,POS,Expenses,Recreation,Venmo for bowling (Josh Becker),5
+12/8/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1131.08
+12/11/2023,POS,Expenses,Gas & Misc.,gas,50
+12/11/2023,POS,Expenses,Groceries,Groceries - Walmart,23.29
+12/12/2023,POS,Expenses,Other,returned toothpick and Snoopy pillow Christmas gifts,3.08
+12/12/2023,DEP,Income,Deposit Other,refund for toothpicks christmas gift,26.54
+12/12/2023,POS,Expenses,Dining Out,Went to Culver's,7.49
+12/14/2023,POS,Expenses,Education/Training,Bought calendar for my bedroom,10.07
+12/15/2023,POS,Expenses,Dining Out,Went to Brewhouse,11.18
+12/16/2023,POS,Expenses,Gas & Misc.,Gas,25
+12/17/2023,POS,Expenses,Gifts,Bought Jane a hat for Christmas,24.42
+12/17/2023,POS,Expenses,Gas & Misc.,Bought wrapping paper,10.62
+12/18/2023,POS,Expenses,Gas & Misc.,Bought new battery for the F-150,204.07
+12/18/2023,POS,Expenses,Groceries,Bought soap,29.6
+12/19/2023,POS,Expenses,Gifts,Bought Dan Doe local fair picture for Christmas,11.67
+12/20/2023,DEP,Income,Deposit Other,Refund from Amazon for Vic's Christmas gift (Peanuts pillow),21.18
+12/22/2023,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1045.24
+12/22/2023,POS,Expenses,Gifts,Bought Vic's Christmas present,28.19
+12/23/2023,POS,Expenses,Groceries,Bought groceries,7.91
+12/25/2023,POS,Expenses,Apple Music,Apple Music,6.36
+12/26/2023,POS,Expenses,Recreation,Hilton (Park City)(Spring Break),169.17
+12/26/2023,POS,Expenses,Student Loans,Student loan payment,815
+12/27/2023,POS,Expenses,Groceries,Bought groceries on Amazon,20.68
+12/28/2023,POS,Expenses,Gifts,Bought white elephant gift for Jane's family Christmas (Bear slippers),24.48
+12/28/2023,DEP,Income,Deposit Other,Venmo cashout,30
+12/28/2023,POS,Expenses,Other,Venmo for Goodrs (Jane Doe),30
+12/28/2023,POS,Expenses,Other,Venmo for Goodrs (Jane Doe),30
+12/31/2023,POS,Expenses,Recreation,Bought pizza/pop for game night,51.21
+1/2/2024,POS,Expenses,Recreation,withdrew money for Jessi Doe (Montana trip),150
+1/2/2024,POS,Expenses,Dining Out,Venmo for Tropical Smoothie (Jane Doe),7.25
+1/2/2024,POS,Expenses,Groceries,Bought groceries on Amazon,34.47
+1/2/2024,POS,Expenses,Gas & Misc.,Gas,15
+1/3/2024,POS,Expenses,Haircuts,Haircut,26.12
+1/3/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,450
+1/3/2024,DEP,Income,Deposit Other,SDSGC Scholarship,3000
+1/3/2024,POS,Expenses,Utilities,Utilities (October),70
+1/3/2024,POS,Expenses,Rent,Rent (January),350
+1/4/2024,POS,Expenses,Other,Withdrew money from ATM,40
+1/5/2024,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1430.65
+1/6/2024,POS,Expenses,Groceries,Groceries - GroceryMart,39
+1/6/2024,POS,Expenses,Groceries,Bought conditioner from Target,10.61
+1/6/2024,POS,Expenses,Groceries,Bought produce at Aldi,13.25
+1/6/2024,POS,Expenses,Groceries,Groceries - Walmart,38.18
+1/6/2024,POS,Expenses,Gas & Misc.,Gas,47
+1/6/2024,POS,Expenses,Gas & Misc.,Gas,20
+1/9/2024,POS,Expenses,Dining Out,Went to Culver's,9.32
+1/10/2024,POS,Expenses,Education/Training,Bought laptop stand,37.99
+1/13/2024,POS,Expenses,Groceries,Groceries - GroceryMart,32.14
+1/13/2024,POS,Expenses,Recreation,Bought targets for gun range,10.6
+1/13/2024,POS,Expenses,Recreation,Gun range fee,1.5
+1/13/2024,POS,Expenses,Recreation,Gun range fee,16.31
+1/15/2024,POS,Expenses,Groceries,Groceries - Walmart,12.49
+1/16/2024,POS,Expenses,Recreation,Went to the movies with Jane,10
+1/16/2024,DEP,Income,Deposit Other,Venmo cashout,4.2
+1/16/2024,POS,Expenses,Recreation,Venmo for Poker Night (Brandon Clausen),10
+1/16/2024,POS,Expenses,Recreation,Venmo for ammo (Emily Johnson),25
+1/16/2024,POS,Expenses,Dining Out,Venmo for food (Jane Doe),10
+1/16/2024,POS,Expenses,Education/Training,Bought standing desk,191.13
+1/16/2024,POS,Expenses,Recreation,Groceries - Walmart,9.5
+1/18/2024,POS,Expenses,Groceries,Venmo for cilantro (Jane Doe),2
+1/17/2024,POS,Expenses,Dining Out,Went to Culver's,7.8
+1/19/2024,POS,Expenses,Dining Out,Went to Cubby's with Mitchell Thomas,17.96
+1/19/2024,POS,Expenses,Groceries,Groceries - Walmart,20.96
+1/19/2024,DEP,Income,Deposit ONE,Corporate Industries Paycheck,1125.48
+1/19/2024,POS,Income,Transfer from Savings,Transfer from Big Savings Bank,3000
+1/21/2024,POS,Expenses,Dining Out,Went to Stensland with Jane,15.46
+1/23/2024,DEP,Income,Deposit Other,Venmo cashout,11
+1/23/2024,POS,Expenses,Other,Venmo for Holiday Challenge 2024 (Carrie Klare),10
+1/23/2024,POS,Expenses,Education/Training,College University Tuition and Fees,6679.15
+1/24/2024,POS,Expenses,Groceries,Groceries - Walmart,9.21
+1/24/2024,DEP,Income,Deposit Other,Partial refund for Hilton (Park City)(Spring Break),1
+1/25/2024,POS,Expenses,Gas & Misc.,Gas,50
+1/26/2024,POS,Expenses,Groceries,Groceries - Walmart,8.64
+1/26/2024,POS,Expenses,Apple Music,Apple Music,6.36
+1/26/2024,DEP,Income,Deposit Other,First Money Bank Rewards,170
+1/27/2024,POS,Expenses,Groceries,Groceries - GroceryMart,7.2
+1/27/2024,POS,Expenses,Education/Training,Bought new Laptop,1069.89
+1/30/2024,POS,Expenses,Groceries,Groceries - Walmart,7.02
+1/31/2024,POS,Expenses,Recreation,Bought tickets to Disturbed concert with Dad,94.16
+1/31/2024,POS,Expenses,Gas & Misc.,Gas,50.1
+2/1/2024,POS,Expenses,Education/Training,Some campus bill,20
+2/1/2024,POS,Expenses,Groceries,Venmo for paper towels (John Doe),9.5
+2/2/2024,DEP,Income,Deposit ONE,Corporate Industries Paycheck,373
+2/2/2024,POS,Expenses,Rent,Rent (February),350
+2/5/2024,POS,Expenses,Other,Venmo car wash (Jane Doe),7
+2/7/2024,POS,Expenses,Utilities,Utilities (November),94.2
+2/7/2024,POS,Expenses,Groceries,Groceries - Walmart,15.31
+2/7/2024,POS,Expenses,Groceries,Groceries - Walmart,7.5
+2/9/2024,POS,Expenses,Groceries,Groceries - Walmart,8.5
+2/10/2024,POS,Expenses,Dining Out,Went to Culver's,3.85
+2/10/2024,POS,Expenses,Dining Out,Went to Taco Bell,6.42
+2/11/2024,POS,Expenses,Groceries,Groceries - GroceryMart,4.23
+2/11/2024,POS,Expenses,Recreation,Bought snacks for the Super Bowl,24.01
+2/12/2024,DEP,Income,Deposit Other,Venmo cashout,16
+2/12/2024,DEP,Income,Transfer from Other,Transfer from Dad (Super Bowl),50
+2/12/2024,POS,Expenses,Recreation,Venmo for Super Bowl bet (Caden Lackey),1
+2/13/2024,POS,Expenses,Gifts,Bought Valentine's Day gift for Jane,28.54
+2/13/2024,POS,Expenses,Education/Training,Graduate school application fee (College University),93
+2/16/2024,DEP,Income,Deposit ONE,Corporate Industries Paycheck,241.38
+2/16/2024,POS,Expenses,Groceries,Groceries - Walmart,21.32
+2/20/2024,POS,Expenses,Groceries,Venmo for movie snacks (Jane Doe),13
+2/20/2024,POS,Expenses,Groceries,Groceries - GroceryMart,14.17
+2/20/2024,POS,Expenses,Other,Bought fuses for the house,20.35
+2/23/2024,POS,Expenses,Dining Out,Went to McDonald's,11.98
+2/23/2024,POS,Expenses,Recreation,Withdrew money for Flandreau (John Doe),40
+2/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+2/25/2024,POS,Expenses,Recreation,Bill for Apple TV,10.61
+2/26/2024,POS,Expenses,Recreation,Venmo for Flandreau (John Doe),20
+2/26/2024,POS,Expenses,Recreation,Venmo for Flandreau (Brandon Clausen),20
+2/26/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),23
+2/26/2024,DEP,Income,Deposit Other,Venmo cashout,26
+2/26/2024,POS,Expenses,Groceries,Bought drink from vending machine,3.25
+2/28/2024,DEP,Income,Deposit Other,Venmo from Jane and Andrew for Vegas Hotel,84.08
+3/1/2024,POS,Expenses,Dining Out,Buffalo Wild Wings,7.59
+3/1/2024,POS,Expenses,Groceries,Bought snacks for the Poker Night,27.39
+3/1/2024,DEP,Income,Deposit ONE,Corporate Industries Paycheck,642.76
+3/1/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,700
+3/1/2024,POS,Expenses,Dining Out,Venmo for coffee at Coffee Town (Greg Martin),6
+3/1/2024,POS,Expenses,Groceries,Venmo for food (Jane Doe),7
+3/3/2024,POS,Expenses,Groceries,Sam's Club,22.22
+3/4/2024,DEP,Income,Deposit Other,Venmo cashout,10
+3/4/2024,DEP,Income,Deposit Other,Venmo from Ryker for Vegas Hotel,42.04
+3/4/2024,POS,Expenses,Other,Venmo for Poker Night (Nate Notgrass),10
+3/4/2024,POS,Expenses,Recreation,Venmo for Queso for Eric Brannon's game night (Jane Doe),5.34
+3/4/2024,POS,Expenses,Rent,Rent (March),350
+3/5/2024,POS,Expenses,Gas & Misc.,Replace brakes on the F-150,766.25
+3/5/2024,POS,Expenses,Groceries,Groceries - Walmart,5.96
+3/6/2024,POS,Expenses,Groceries,Venmo for broccoli (Jane Doe),3.18
+3/7/2024,DEP,Income,Transfer from Other,Tax Return,2439
+3/8/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,300
+3/8/2024,POS,Expenses,Groceries,Venmo for spring break groceries (Emily Johnson),58
+3/8/2024,POS,Expenses,Recreation,Venmo for Vegas cash (Jane Doe),200
+3/8/2024,POS,Expenses,Recreation,Bought Atomic Habits book,20.07
+3/11/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Jane Doe),24.8
+3/11/2024,POS,Expenses,Recreation,Ski helmet rental,10
+3/11/2024,POS,Expenses,Recreation,"Bought stocking cap at Wolf Creek, CO",35.87
+3/11/2024,POS,Expenses,Dining Out,"Bought something to eat at Wolf Creek, CO",10
+3/11/2024,POS,Expenses,Gas & Misc.,Gas,36
+3/11/2024,POS,Expenses,Groceries,Bought energy drink from gas station,3.01
+3/11/2024,POS,Expenses,Recreation,Bought mustache pencil,8.3
+3/11/2024,POS,Expenses,Groceries,Vegas groceries at Target,9.71
+3/11/2024,POS,Expenses,Groceries,Vegas groceries in Lead,21.24
+3/11/2024,POS,Expenses,Gas & Misc.,Gas,36
+3/11/2024,POS,Expenses,Recreation,Bought coffee,2.37
+3/11/2024,POS,Expenses,Gas & Misc.,Gas,42
+3/12/2024,POS,Expenses,Dining Out,Macy's Coffee shop in Flagstaff,18.51
+3/12/2024,POS,Expenses,Gas & Misc.,Gas,44
+3/12/2024,DEP,Income,Deposit Other,Venmo cashout,196.5
+3/12/2024,POS,Expenses,Recreation,Venmo for Motel 6 in Flagstaff (Emily Johnson),26.68
+3/12/2024,POS,Expenses,Recreation,Venmo for Skiing at Wolf Creek (Jane Doe),256
+3/13/2024,DEP,Income,Deposit Other,Venmo cashout,29.34
+3/13/2024,POS,Expenses,Groceries,Venmo for Vegas groceries (John Doe),23.55
+3/14/2024,POS,Expenses,Recreation,Vegas Taxi,16.21
+3/14/2024,POS,Expenses,Other,Bought Jane cold medicine,11.69
+3/14/2024,POS,Expenses,Recreation,Venmo for Trump car tip (Perry Evangelista),5
+3/14/2024,POS,Expenses,Recreation,Venmo for Uber ride to Freemont Street (Emily Johnson),7.64
+3/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,179.54
+3/15/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,241.36
+3/15/2024,POS,Expenses,Dining Out,Venmo for Vegas supper (John Doe),48.17
+3/15/2024,POS,Expenses,Recreation,Venmo for Arizona Tea (Emily Johnson),2.25
+3/15/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Jane Doe),10
+3/15/2024,POS,Expenses,Gas & Misc.,Gas,33.2
+3/15/2024,POS,Expenses,Gifts,Bought Dad green chili stuff in ABQ,14.57
+3/15/2024,POS,Expenses,Recreation,Bought food at gas station,3.59
+3/15/2024,POS,Expenses,Gas & Misc.,Gas,54
+3/15/2024,POS,Expenses,Groceries,Bought drink from gas station,2.87
+3/15/2024,POS,Expenses,Groceries,Bought food at gas station,17.53
+3/16/2024,POS,Expenses,Gas & Misc.,Gas,34.02
+3/16/2024,POS,Expenses,Gas & Misc.,Gas,26
+3/16/2024,POS,Expenses,Gas & Misc.,Gas,11.51
+3/16/2024,POS,Expenses,Gas & Misc.,Gas,31
+3/16/2024,POS,Expenses,Dining Out,Went to Stensland with Jane,12.01
+3/17/2024,POS,Expenses,Gas & Misc.,Got a car wash,15.93
+3/17/2024,POS,Expenses,Groceries,Groceries - Walmart,30.8
+3/17/2024,POS,Expenses,Gas & Misc.,Gas,60
+3/18/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Jane Doe),24.5
+3/18/2024,POS,Expenses,Groceries,Venmo for milk (Jane Doe),3.2
+3/18/2024,DEP,Income,Deposit Other,Venmo cashout,137.78
+3/19/2024,POS,Expenses,Gas & Misc.,Vehicle registration 2024,95.71
+3/19/2024,POS,Expenses,Education/Training,Graduation cap and gown,79.49
+3/19/2024,POS,Expenses,Dining Out,Went to Qdoba with Dad for his birthday,32.23
+3/20/2024,POS,Expenses,Dining Out,Went to culver's,6.2
+3/20/2024,ACH,Savings,Big Savings Bank,Car payment,100
+3/20/2024,ACH,Savings,Big Savings Bank,Transfer to savings,1000
+3/23/2024,POS,Expenses,Dining Out,Bought coffee,6.65
+3/23/2024,POS,Expenses,Gas & Misc.,Gas,50
+3/24/2024,POS,Expenses,Groceries,Groceries - GroceryMart,13
+3/24/2024,POS,Expenses,Groceries,Groceries - Walmart,19.89
+3/24/2024,POS,Expenses,Recreation,Bill for Apple TV,10.61
+3/24/2024,POS,Expenses,Dining Out,Jane bought sandwhich at Cottonwood,9.62
+3/26/2024,POS,Expenses,Apple Music,Apple Music,6.36
+3/26/2024,POS,Expenses,Dining Out,Bought coffee,7.18
+3/27/2024,POS,Expenses,Groceries,Groceries - Walmart,2.21
+3/27/2024,POS,Expenses,Groceries,Groceries - Walmart,9.76
+3/27/2024,POS,Expenses,Fitness,Bought sealant for bike,7.43
+3/28/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,801.52
+3/28/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,378.76
+3/29/2024,POS,Expenses,Fitness,Bought Garmin Forerunner 965,637.19
+3/29/2024,POS,Expenses,Gas & Misc.,Gas,50
+4/1/2024,POS,Expenses,Gas & Misc.,Gas,20
+4/2/2024,POS,Expenses,Fitness,Bought new bike tires,148.66
+4/2/2024,DEP,Income,Deposit Other,Venmo cashout,90
+4/2/2024,POS,Expenses,Gas & Misc.,Gas,49.96
+4/2/2024,POS,Expenses,Fitness,Tubless tire install,26.55
+4/3/2024,POS,Expenses,Dining Out,Bought cookie,1.66
+4/3/2024,POS,Expenses,Groceries,Groceries - GroceryMart,20
+4/3/2024,POS,Expenses,Dining Out,Got lunch with Mom,26.21
+4/3/2024,POS,Expenses,Health Care,Chiropractor,30
+4/3/2024,POS,Expenses,Utilities,Utilities (January),127.47
+4/3/2024,POS,Expenses,Rent,Rent (April),350
+4/4/2024,DEP,Income,Deposit Other,Deposited cash,100
+4/4/2024,DEP,Income,Deposit Other,First Money Bank Rewards,50
+4/4/2024,POS,Expenses,Utilities,Utilities (December),95.41
+4/4/2024,POS,Expenses,Groceries,Groceries - Walmart,6.61
+4/4/2024,POS,Expenses,Dining Out,Went to Qdoba,13.72
+4/5/2024,DEP,Income,Deposit Other,Venmo cashout,8
+4/5/2024,POS,Expenses,Student Loans,Student loan payment,865
+4/6/2024,POS,Expenses,Groceries,Bought dessert for Grandma and Grandpa,7.97
+4/6/2024,POS,Expenses,Gas & Misc.,Gas,50
+4/7/2024,POS,Expenses,Groceries,Groceries - GroceryMart,5
+4/8/2024,POS,Expenses,Gifts,Bought hockey tickets for Mom's birthday,112.5
+4/8/2024,POS,Expenses,Recreation,Venmo for Poker Night (Brandon Clausen),3
+4/8/2024,POS,Expenses,Recreation,Venmo for poker night (John Doe),7
+4/9/2024,DEP,Income,Deposit Other,Venmo cashout,12
+4/9/2024,DEP,Income,Transfer from Other,Transfer from Dad,200
+4/10/2024,POS,Expenses,Groceries,Groceries - GroceryMart,17
+4/10/2024,POS,Expenses,Dining Out,Got a coffee at Coffee Town,6.65
+4/10/2024,POS,Expenses,Recreation,Bought soil and seeds with Andrew at Lowes,7.68
+4/11/2024,POS,Expenses,Groceries,Groceries - GroceryMart,44
+4/11/2024,POS,Expenses,Dining Out,Went to Applebees with Jane,10.57
+4/12/2024,POS,Expenses,Gifts,Bought Mom's birthday gift (Menards giftcard),25
+4/12/2024,POS,Expenses,Groceries,Groceries - Walmart,8.45
+4/12/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,593.88
+4/12/2024,ACH,Savings,Big Savings Bank,Car payment,100
+4/12/2024,ACH,Savings,Big Savings Bank,Transfer to savings,200
+4/12/2024,DEP,Income,Deposit Other,Venmo cashout,5.5
+4/12/2024,POS,Expenses,Recreation,"Venmo for ""Exploding Kittens' card games (Jane Doe)",50
+4/13/2024,POS,Expenses,Recreation,Bought Metallica record,1.05
+4/13/2024,POS,Expenses,Gas & Misc.,Gas,20
+4/13/2024,POS,Expenses,Gas & Misc.,Gas,50
+4/15/2024,POS,Expenses,Groceries,Groceries - Walmart,8.35
+4/15/2024,POS,Expenses,Groceries,Groceries - Walmart,18.88
+4/15/2024,POS,Expenses,Groceries,Groceries - Walmart,7.24
+4/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,780.33
+4/15/2024,ACH,Savings,Big Savings Bank,Car payment,100
+4/15/2024,POS,Expenses,Student Loans,Student loan payment,251.75
+4/15/2024,ACH,Savings,Big Savings Bank,Transfer to savings,400
+4/18/2024,POS,Expenses,Education/Training,Added Hobo Dough,5
+4/20/2024,POS,Expenses,Gifts,Bought Dad a Bible,16.29
+4/20/2024,POS,Expenses,Dining Out,Bought coffee,7.4
+4/20/2024,POS,Expenses,Dining Out,Went to Culver's,10.27
+4/21/2024,POS,Expenses,Dining Out,Went to Culver's,14.65
+4/21/2024,POS,Expenses,Gas & Misc.,Gas,60
+4/22/2024,POS,Expenses,Recreation,Venmo for Poker Night (Tyler O'Neill),10
+4/22/2024,POS,Expenses,Dining Out,Got Firehouse Subs with Mom,14.62
+4/22/2024,POS,Expenses,Groceries,Bought energy drink from gas station,5.29
+4/23/2024,POS,Expenses,Groceries,Groceries - GroceryMart,13.8
+4/24/2024,POS,Expenses,Recreation,Bill for Apple TV,10.61
+4/24/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),20
+4/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+4/25/2024,POS,Expenses,Dining Out,Got pizza with Dad,52.85
+4/26/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,482.73
+4/26/2024,POS,Expenses,Recreation,Bought John Deere stuff,27.06
+4/26/2024,POS,Expenses,Groceries,Groceries - Walmart,1.03
+4/26/2024,POS,Expenses,Recreation,Bought Imagine Dragons Tickets,219.56
+4/27/2024,POS,Expenses,Recreation,Bought Farming Simulator 22,12.59
+4/29/2024,POS,Expenses,Groceries,Groceries - Walmart,22.71
+4/30/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1378.25
+4/30/2024,ACH,Savings,Big Savings Bank,Car payment,100
+4/30/2024,ACH,Savings,Big Savings Bank,Transfer to savings,400
+5/1/2024,POS,Expenses,Groceries,Groceries - Walmart,26.45
+5/2/2024,POS,Expenses,Internet,Venmo for internet (2023-2024) (Russell Pierzinski),312
+5/2/2024,POS,Expenses,Recreation,Venmo for Axe body spray for Will's bedroom (John Doe),7.42
+5/2/2024,POS,Expenses,Groceries,Groceries - Walmart,3.3
+5/2/2024,POS,Expenses,Gifts,Bought Biesecker gift for helping me with Real Analysis,23.56
+5/3/2024,POS,Expenses,Rent,Rent (April),329.65
+5/3/2024,POS,Expenses,Groceries,Groceries - Walmart,12.71
+5/3/2024,POS,Expenses,Dining Out,Went to Culver's,7.81
+5/5/2024,POS,Expenses,Other,Bought new shoes,111.5
+5/6/2024,POS,Expenses,Dining Out,Went to Wendy's,4.29
+5/6/2024,POS,Expenses,Recreation,Venmo for Farming Simulator surver (John Doe),3.5
+5/7/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,3000
+5/7/2024,POS,Expenses,Utilities,Utilities (Feburary),102.37
+5/7/2024,POS,Expenses,Recreation,Venmo for pickleball paddle (John Doe),26.5
+5/8/2024,POS,Expenses,Other,Venmo for carabiner (Jane Doe),3
+5/8/2024,POS,Expenses,Other,Bought Stillness is The Key book,27.61
+5/9/2024,POS,Expenses,Groceries,Groceries - Walmart,1.4
+5/9/2024,POS,Expenses,Groceries,Groceries - Walmart,6.8
+5/9/2024,POS,Expenses,Education/Training,College University Tuition and Fees,2452.7
+5/10/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,701.2
+5/10/2024,POS,Expenses,Dining Out,Venmo for Culver's (John Doe),8.5
+5/12/2024,DEP,Income,Deposit Other,Refund from Scheels for shoes,111.5
+5/12/2024,POS,Expenses,Groceries,Groceries - Target,33.41
+5/12/2024,POS,Expenses,Recreation,Bought plant seeds at Lowe's,8.68
+5/12/2024,POS,Expenses,Gifts,Bought flowers for Mom for Mother's Day,26.49
+5/13/2024,POS,Expenses,Groceries,Groceries - Walmart,31.68
+5/13/2024,POS,Expenses,Gas & Misc.,Gas,50
+5/13/2024,POS,Expenses,Dining Out,Venmo for ice cream cone at Dairy Queen (John Doe),3
+5/13/2024,ACH,Savings,Big Savings Bank,Car payment,100
+5/13/2024,POS,Expenses,Student Loans,Student loan payment,225
+5/13/2024,ACH,Savings,Big Savings Bank,Transfer to savings,400
+5/14/2024,POS,Expenses,Health Care,Bought contacts,178
+5/14/2024,POS,Expenses,Health Care,Co-pay for eye exam,50
+5/15/2024,POS,Expenses,Gas & Misc.,Oil change,50.96
+5/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,390.17
+5/18/2024,POS,Expenses,Other,Buy Stuff for Jane's Mom at Target,81.83
+5/18/2024,POS,Expenses,Recreation,Bought plane tickets for Colorado trip,142.08
+5/20/2024,DEP,Income,Deposit Other,Venmo cashout,81.83
+5/20/2024,POS,Expenses,Dining Out,Venmo for coffee (Jane Doe),7
+5/21/2024,POS,Expenses,Gas & Misc.,Gas,10
+5/21/2024,DEP,Income,Deposit Other,First Money Bank Rewards,71.59
+5/21/2024,DEP,Income,Deposit Other,Venmo cashout,7
+5/21/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),10.52
+5/22/2024,POS,Expenses,Utilities,Utilities (March),99.73
+5/22/2024,POS,Expenses,Other,Bought Jane's Mom Coffee,35.38
+5/23/2024,POS,Expenses,Health Care,Bought retainer for sleeping,100
+5/23/2024,POS,Expenses,Fitness,Bike tune up,226.18
+5/23/2024,POS,Expenses,Gas & Misc.,Gas,25
+5/23/2024,DEP,Income,Deposit Other,Graduation gift from Aunt Amy,100
+5/23/2024,DEP,Income,Deposit Other,deposit check from Active Junky,52.99
+5/24/2024,DEP,Income,Deposit TWO,Corporate Industries Paycheck,199.25
+5/25/2024,POS,Expenses,Recreation,Bought spinach seeds,3.18
+5/26/2024,POS,Expenses,Groceries,Bought tea leaves,11.68
+5/26/2024,POS,Expenses,Groceries,Groceries - Sam's Club,24.88
+5/26/2024,POS,Expenses,Groceries,Groceries - Costco,33.97
+5/27/2024,POS,Expenses,Apple Music,Apple Music,6.36
+5/27/2024,POS,Expenses,Gas & Misc.,Car wash,10
+5/28/2024,DEP,Income,Deposit Other,Venmo cashout,36
+5/28/2024,POS,Expenses,Gas & Misc.,Front end work on the F-150,1720.9
+5/28/2024,POS,Expenses,Other,Paid for pizza for backyard pool concrete job,22.5
+5/29/2024,POS,Expenses,Gifts,Bought Jane a camera for her birthday/anniversary,115.5
+5/30/2024,POS,Expenses,Gifts,Bought memory card for Jane's camera,11.66
+5/30/2024,POS,Expenses,Gas & Misc.,Gas,30
+5/31/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1119.18
+5/31/2024,POS,Expenses,Gifts,Shipped Jane's camera to her,121.73
+6/1/2024,POS,Expenses,Gas & Misc.,Gas,50
+6/1/2024,POS,Expenses,Recreation,Bought plane tickets for Colorado trip,87.96
+6/2/2024,POS,Expenses,Recreation,Bought Panera with Dad and Ryker,10.16
+6/3/2024,ACH,Savings,Big Savings Bank,Transfer to savings,1003
+6/4/2024,DEP,Income,Deposit Other,Deposit check from Get-Well Hospital,239
+6/4/2024,DEP,Income,Deposit Other,Transfer from Dad,1250
+6/4/2024,POS,Expenses,Recreation,Venmo for tent (Mitchell Thomas),15
+6/4/2024,POS,Expenses,Rent,Rent (May 2024),290
+6/5/2024,POS,Expenses,Health Care,Paid Get-Well Hospital bill,100
+6/5/2024,POS,Expenses,Recreation,Train ticket (Denver),10
+6/6/2024,DEP,Income,Deposit Other,Venmo cashout,23
+6/6/2024,POS,Expenses,Dining Out,Ate lunch with Jane at Kiewit,12.75
+6/6/2024,POS,Expenses,Dining Out,Ate at Cheesecake Factory,25.21
+6/7/2024,POS,Expenses,Dining Out,Denver coffee place,8.43
+6/8/2024,POS,Expenses,Fitness,Strava Premium,42.47
+6/8/2024,POS,Expenses,Recreation,Got clothes at Under Armour in Denver,58.38
+6/8/2024,POS,Expenses,Recreation,Bought dress clothes in Denver,157.69
+6/9/2024,POS,Expenses,Recreation,Bought dress clothes in Denver,135.51
+6/9/2024,POS,Expenses,Recreation,Bought new jeans,54.46
+6/10/2024,POS,Expenses,Dining Out,Groceries - Costco,13
+6/10/2024,POS,Expenses,Groceries,Bought stuff at Safeway in Estes,33.84
+6/11/2024,POS,Expenses,Recreation,Bought food at gas station,3.58
+6/11/2024,POS,Expenses,Dining Out,Venmo for Flower Child in Denver (Jane Doe),16.15
+6/11/2024,POS,Expenses,Other,Transfer to Dad,100
+6/12/2024,POS,Expenses,Dining Out,Got McDonald's,10.15
+6/12/2024,POS,Expenses,Dining Out,Ate at Costco,3.24
+6/13/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Mitchell Thomas),14
+6/14/2024,POS,Expenses,Dining Out,Denver coffee place,8.43
+6/14/2024,POS,Expenses,Dining Out,Got McDonald's,7.32
+6/14/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1815.79
+6/14/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Sarah Turpen),10
+6/14/2024,POS,Expenses,Recreation,Venmo for Zach Bryan tickets in Denver (Ella Doe),120
+6/15/2024,POS,Expenses,Gifts,Bought supplies for cornhole boards,127.51
+6/17/2024,DEP,Income,Transfer from Other,Transfer from Dad,100
+6/17/2024,POS,Expenses,Recreation,Venmo for school help (Brandon Clausen),3
+6/17/2024,POS,Expenses,Recreation,Withdrew money for guitar,80
+6/17/2024,POS,Expenses,Groceries,Groceries - GroceryMart,21
+6/19/2024,POS,Expenses,Haircuts,Haircut,24.12
+6/19/2024,POS,Expenses,Gas & Misc.,Gas,50
+6/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+6/21/2024,POS,Expenses,Recreation,Bought guitar strap and kapo,2.49
+6/22/2024,POS,Expenses,Groceries,Groceries - Costco,70.06
+6/23/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,19.87
+6/23/2024,POS,Expenses,Gas & Misc.,Gas,28
+6/23/2024,POS,Expenses,Groceries,Groceries - Costco,51.77
+6/24/2024,POS,Expenses,Other,Bought Phone charger,12.83
+6/24/2024,POS,Expenses,Gas & Misc.,Gas,66.5
+6/24/2024,POS,Expenses,Fitness,Bought bike pump (returned),21.36
+6/24/2024,POS,Expenses,Fitness,Bought bike pump,37.41
+6/24/2024,DEP,Income,Deposit Other,Refund from Walmart for bike pump,21.36
+6/24/2024,POS,Expenses,Dining Out,Ate at Raising Canes,11.33
+6/24/2024,POS,Expenses,Utilities,Utilities (April),78.43
+6/25/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,300
+6/25/2024,POS,Expenses,Recreation,Venmo for Zach Bryan tickets in Grand Forks (John Doe),250
+6/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+6/25/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,11.85
+6/26/2024,POS,Expenses,Other,Parking meter in Des Moines,1.78
+6/26/2024,POS,Expenses,Dining Out,Venmo for Pancheros (Nathan Roberts),12
+6/26/2024,POS,Expenses,Dining Out,Went to Dunkin' Donuts,6.96
+6/27/2024,POS,Expenses,Dining Out,Ate at Jimmy John's,11.75
+6/27/2024,POS,Expenses,Other,Parking meter in Des Moines,2.93
+6/28/2024,POS,Expenses,Dining Out,Ate at Tasty Tacos,14.93
+6/28/2024,POS,Expenses,Gas & Misc.,Gas,72
+6/28/2024,POS,Expenses,Other,Hotel for BusinessCorp visit,403.2
+6/28/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,9.13
+6/28/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,929.99
+6/30/2024,POS,Expenses,Dining Out,Went to Dairy Queen,5.67
+6/30/2024,POS,Expenses,Groceries,Vitamins,22
+6/30/2024,POS,Expenses,Recreation,Bought Dad Arnold Palmer,2.74
+7/3/2024,POS,Expenses,Rent,Rent (June 2024),290
+7/3/2024,POS,Expenses,Groceries,Groceries - Walmart,24.84
+7/5/2024,POS,Expenses,Recreation,Got coffee,5.56
+7/8/2024,DEP,Income,Deposit Other,Venmo cashout,13
+7/8/2024,POS,Expenses,Recreation,Venmo for Denver Train (Jane Doe),10
+7/9/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,800
+7/10/2024,DEP,Income,Deposit Other,Venmo cashout,10
+7/10/2024,POS,Expenses,Dining Out,Venmo for PF Changs (Jane Doe),15.52
+7/11/2024,POS,Expenses,Groceries,Groceries - Target,9.51
+7/11/2024,POS,Expenses,Groceries,Groceries - Target,18.56
+7/11/2024,POS,Expenses,Other,Train ticket (Denver),10
+7/11/2024,POS,Expenses,Fitness,Bought water bladder and shoes at REI,233.96
+7/11/2024,POS,Expenses,Recreation,Denver coffee place,8.34
+7/12/2024,POS,Expenses,Recreation,Bought bear spray,32.5
+7/13/2024,POS,Expenses,Recreation,Bought granola bar in Twin Lakes,1.91
+7/14/2024,POS,Expenses,Dining Out,Grabbed food in Aspen with Jane,47.84
+7/14/2024,POS,Expenses,Recreation,Bought sparkling water,3.2
+7/15/2024,POS,Expenses,Dining Out,Went to In N Out Burger,6.5
+7/15/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,24.86
+7/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,2593.12
+7/15/2024,POS,Expenses,Groceries,Venmo for hiking groceries (Mitchell Thomas),30
+7/16/2024,DEP,Income,Deposit Other,Venmo cashout,50.52
+7/16/2024,POS,Expenses,Dining Out,Went to Chipotle,10.32
+7/16/2024,POS,Expenses,Recreation,Parking meter in Denver,4
+7/16/2024,POS,Expenses,Recreation,Denver coffee place,8.34
+7/17/2024,POS,Expenses,Recreation,Venmo for food (Jane Doe),20
+7/17/2024,ACH,Savings,Big Savings Bank,Transfer to savings,2300
+7/17/2024,POS,Expenses,Dining Out,Went to McDonald's,5.5
+7/19/2024,POS,Expenses,Recreation,Scooter ride in Colorado Springs,4.46
+7/19/2024,POS,Expenses,Fitness,Bought Shokz headphones,132.7
+7/19/2024,POS,Expenses,Gas & Misc.,Gas,66
+7/19/2024,POS,Expenses,Recreation,Bought guitar picks,9
+7/20/2024,POS,Expenses,Groceries,Groceries - Walmart,11.84
+7/20/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,6.96
+7/20/2024,POS,Expenses,Dining Out,Went to McDonald's,3.22
+7/20/2024,POS,Expenses,Dining Out,Went to McDonald's,10.71
+7/20/2024,POS,Expenses,Recreation,Went golfing with Andrew and Tyler,38.07
+7/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+7/22/2024,POS,Expenses,Recreation,Bought Bose headphones,243.2
+7/22/2024,POS,Expenses,Dining Out,Venmo for Applebees (John Doe),15
+7/23/2024,POS,Expenses,Other,Bought Andrew new Goodrs,33.97
+7/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+7/28/2024,POS,Expenses,Dining Out,Bought lunch for Mom and Dad,41.27
+7/29/2024,POS,Expenses,Groceries,Bought sparkling water,2.43
+7/29/2024,POS,Expenses,Gas & Misc.,Gas,50
+7/30/2024,POS,Expenses,Groceries,Groceries - Walmart,14.23
+7/30/2024,POS,Expenses,Education/Training,Bought Defining Decade book,13.67
+7/31/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,4645.5
+7/31/2024,POS,Expenses,Groceries,Venmo for pizza rolls (John Doe),3.01
+7/31/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,1.77
+7/31/2024,POS,Expenses,Recreation,Bought smoothie,7.68
+8/1/2024,ACH,Savings,Big Savings Bank,Transfer to savings,3583.41
+8/3/2024,POS,Expenses,Education/Training,LinkedIn Premium,42.47
+8/3/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,8.9
+8/3/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,4.02
+8/3/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,10.7
+8/3/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,19.4
+8/6/2024,POS,Expenses,Recreation,Got pizza at Wooden Legs,19.67
+8/7/2024,POS,Expenses,Gas & Misc.,Gas,15
+8/8/2024,POS,Expenses,Recreation,Bought Flo Rida tickets,140
+8/8/2024,POS,Expenses,Dining Out,Went to McDonald's,5.35
+8/9/2024,DEP,Income,Transfer from Other,Transfer from Dad,120
+8/9/2024,POS,Expenses,Rent,Rent (July 2024),290
+8/10/2024,POS,Expenses,Dining Out,Ate at Taco John's,7.5
+8/10/2024,POS,Expenses,Gas & Misc.,Oil change,50.96
+8/10/2024,POS,Expenses,Other,Bought navy blue suit,318.59
+8/10/2024,POS,Expenses,Gas & Misc.,Gas,50
+8/11/2024,POS,Expenses,Gas & Misc.,Gas,47
+8/11/2024,POS,Expenses,Dining Out,Bought food at gas station,6.88
+8/11/2024,POS,Expenses,Dining Out,Bought food at gas station,6.19
+8/11/2024,POS,Expenses,Dining Out,Ate at Taco Bell,12.82
+8/11/2024,POS,Expenses,Gas & Misc.,Gas,53.25
+8/12/2024,POS,Expenses,Recreation,Bought Iowa State Fair Cookie bucket for team meeting,20
+8/12/2024,POS,Expenses,Dining Out,Bought food at Iowa State Fair,16
+8/12/2024,POS,Expenses,Dining Out,Bought food at Iowa State Fair,8
+8/12/2024,POS,Expenses,Dining Out,Bought food at Iowa State Fair,12
+8/12/2024,POS,Expenses,Dining Out,Bought food at Iowa State Fair,10
+8/12/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,4.23
+8/12/2024,POS,Expenses,Recreation,Withdrew money for visiting Brandon,45
+8/12/2024,POS,Expenses,Recreation,Non-First Money Bank ATM fee,2.5
+8/13/2024,POS,Expenses,Dining Out,Bought Arnold Palmer in Des Moines,9.36
+8/14/2024,POS,Expenses,Recreation,Bought Motley Crue tickets,65
+8/14/2024,POS,Expenses,Dining Out,Ate at Big Grove in Des Moines with team,34.28
+8/14/2024,POS,Expenses,Dining Out,Ate at Jimmy John's,13.62
+8/14/2024,POS,Expenses,Dining Out,Got Starbucks,9.47
+8/14/2024,POS,Expenses,Recreation,Parking meter,0.25
+8/14/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,8.38
+8/15/2024,POS,Expenses,Dining Out,Ate at Blaze Pizza,19.04
+8/15/2024,POS,Expenses,Dining Out,Got Starbucks,7.05
+8/15/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,12.44
+8/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,929.99
+8/16/2024,POS,Expenses,Dining Out,Got Starbucks,5.23
+8/16/2024,POS,Expenses,Dining Out,Went to Freddy's with Jeremy,8
+8/16/2024,POS,Expenses,Dining Out,Went to Freddy's with Jeremy,5
+8/16/2024,POS,Expenses,Gas & Misc.,Gas,55
+8/16/2024,POS,Expenses,Other,Hotel for BusinessCorp visit,403.2
+8/16/2024,POS,Expenses,Dining Out,Went to Culver's,11.01
+8/16/2024,POS,Expenses,Dining Out,Ate at BusinessCorp Café,5.83
+8/18/2024,POS,Expenses,Recreation,Bought stuff at the Metallica pop-up shop,92.26
+8/18/2024,POS,Expenses,Dining Out,Bought burgers at U.S. Bank Stadium for Metallica concert,45.98
+8/18/2024,POS,Expenses,Recreation,Paid for parking at Metallica concert,60
+8/18/2024,POS,Expenses,Recreation,Paid for parking at Metallica concert,5.45
+8/18/2024,POS,Expenses,Recreation,Paid for parking at Green Day concert,20
+8/19/2024,POS,Expenses,Recreation,Hotel for Minneapolis trip with Mom and Dad,321.88
+8/19/2024,POS,Expenses,Groceries,Groceries - Costco,215.64
+8/19/2024,POS,Expenses,Gifts,Withdrew money for Sean's Christmas present,22.95
+8/19/2024,POS,Expenses,Other,Non-First Money Bank ATM fee,2.5
+8/20/2024,POS,Expenses,Gifts,Bought Jane birthday present (Scheels gift card),90.88
+8/21/2024,POS,Expenses,Groceries,Groceries - Walmart,10.73
+8/21/2024,POS,Expenses,Groceries,Groceries - Walmart,35.95
+8/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+8/21/2024,POS,Expenses,Recreation,Went to Coffee Town,5.29
+8/22/2024,POS,Expenses,Gas & Misc.,Gas,65
+8/22/2024,POS,Expenses,Groceries,Groceries - Walmart,11.14
+8/23/2024,POS,Expenses,Groceries,Groceries - Amazon,179.51
+8/24/2024,POS,Expenses,Groceries,Bought new fuses and batteries,30.74
+8/24/2024,POS,Expenses,Groceries,Groceries - GroceryMart,20
+8/24/2024,POS,Expenses,Recreation,Bought new parts for guitar,95.57
+8/25/2024,POS,Expenses,Dining Out,Got ice cream,15.94
+8/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+8/26/2024,POS,Expenses,Other,Bought God Speed hat for Jane,50
+8/26/2024,POS,Expenses,Dining Out,Bought food at gas station,6.62
+8/26/2024,POS,Expenses,Dining Out,Ate at Taco Bell,7.46
+8/26/2024,DEP,Income,Transfer from Other,Transfer from Dad,800
+8/27/2024,DEP,Income,Deposit Other,Venmo cashout,45
+8/27/2024,POS,Expenses,Gas & Misc.,Venmo for gas (Emily Johnson),20
+8/27/2024,POS,Expenses,Education/Training,McAffee antivirus protection,47.78
+8/27/2024,POS,Expenses,Dining Out,Bought food at gas station,7.4
+8/28/2024,DEP,Income,Deposit Other,Venmo cashout,10
+8/28/2024,POS,Expenses,Groceries,Venmo for protien powder (John Doe),38.12
+8/29/2024,POS,Expenses,Groceries,Groceries - GroceryMart,20
+8/29/2024,POS,Expenses,Groceries,Groceries - Walmart,7.18
+8/29/2024,POS,Expenses,Dining Out,Got coffee,7.35
+8/29/2024,POS,Expenses,Dining Out,Wooden Legs,2.07
+8/30/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,2593.12
+8/30/2024,ACH,Savings,Big Savings Bank,Car payment,100
+8/30/2024,ACH,Savings,Big Savings Bank,Transfer to savings,1000
+8/30/2024,POS,Expenses,Groceries,Groceries - Walmart,40.71
+8/31/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,30.59
+8/31/2024,POS,Expenses,Gas & Misc.,Gas,60
+9/1/2024,POS,Expenses,Dining Out,Got ice cream,11.23
+9/1/2024,POS,Expenses,Recreation,Paid for guitar repair,53.08
+9/1/2024,POS,Expenses,Recreation,Bought guitar amp,195
+9/2/2024,POS,Expenses,Groceries,Groceries - GroceryMart,4
+9/2/2024,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,60.5
+9/2/2024,POS,Expenses,Groceries,Groceries - Walmart,5.28
+9/2/2024,POS,Expenses,Education/Training,Bought book for class,63
+9/3/2024,POS,Expenses,Recreation,Ultimate Guitar Subscription,74.99
+9/3/2024,POS,Expenses,Groceries,Groceries - GroceryMart,17
+9/4/2024,POS,Expenses,Dining Out,Went to Culver's,7.05
+9/4/2024,DEP,Income,Transfer from Savings,Transfer from savings,5000
+9/5/2024,DEP,Income,Transfer from Other,Venmo cashout,0.52
+9/5/2024,POS,Expenses,Rent,Rent (August 2024),290
+9/5/2024,POS,Expenses,Dining Out,Got coffee,6.38
+9/6/2024,POS,Expenses,Education/Training,College University Tuition and Fees,2072.75
+9/7/2024,POS,Expenses,Groceries,Bought energy drink from gas station,2.96
+9/7/2024,POS,Expenses,Gas & Misc.,Gas,50
+9/8/2024,POS,Expenses,Groceries,Groceries - Walmart,17.49
+9/8/2024,POS,Expenses,Recreation,Ultimate Guitar Subscription,21.23
+9/10/2024,POS,Expenses,Groceries,Propane refill,26.54
+9/10/2024,POS,Expenses,Groceries,Groceries - Walmart,23.56
+9/10/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,20.22
+9/11/2024,POS,Expenses,Groceries,Groceries - Walmart,21.3
+9/11/2024,ACH,Savings,Big Savings Bank,Transfer to savings,2900
+9/12/2024,POS,Expenses,Dining Out,Got coffee,3.94
+9/12/2024,POS,Expenses,Dining Out,Went to Culver's,7.8
+9/13/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,2641.69
+9/15/2024,POS,Expenses,Other,Bought Andrew Guitar cable,27.6
+9/15/2024,POS,Expenses,Gas & Misc.,Gas,50
+9/15/2024,POS,Expenses,Recreation,Bought guitar amp,113.62
+9/16/2024,POS,Expenses,Dining Out,Got ice cream,13.3
+9/16/2024,POS,Expenses,Groceries,Groceries - Walmart,19.63
+9/16/2024,POS,Expenses,Other,Venmo for Augie football game ticket (Jane Doe),5
+9/16/2024,POS,Expenses,Dining Out,Venmo for Culver's (John Doe),10
+9/16/2024,POS,Expenses,Dining Out,Venmo for Wooden Legs (John Doe),9
+9/16/2024,DEP,Income,Deposit Other,Venmo cashout,5.02
+9/16/2024,DEP,Income,Deposit Other,Venmo cashout,28
+9/16/2024,POS,Expenses,Groceries,Venmo for groceries (John Doe),13
+9/17/2024,ACH,Savings,Big Savings Bank,Transfer to savings,1500
+9/17/2024,ACH,Savings,Big Savings Bank,Car payment,100
+9/19/2024,DEP,Income,Deposit Other,Refund from Ultimate Guitar,74.99
+9/19/2024,POS,Expenses,Groceries,Groceries - GroceryMart,6
+9/19/2024,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,21.22
+9/19/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,14.33
+9/20/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),12
+9/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+9/21/2024,POS,Expenses,Dining Out,Went to Qdoba,6.38
+9/22/2024,POS,Expenses,Gas & Misc.,Got a car wash,7.43
+9/22/2024,POS,Expenses,Groceries,Groceries - GroceryMart,7
+9/22/2024,POS,Expenses,Other,Bought fuses at Lowes,7.41
+9/23/2024,POS,Expenses,Groceries,Groceries - GroceryMart,8
+9/23/2024,POS,Expenses,Health Care,Chiropractor,30
+9/23/2024,POS,Expenses,Groceries,Venmo for raspberries (Jane Doe),3
+9/24/2024,POS,Expenses,Groceries,Venmo for groceries (John Doe),5.5
+9/24/2024,POS,Expenses,Recreation,Withdrew money,40
+9/24/2024,POS,Expenses,Haircuts,Haircut,23.67
+9/24/2024,POS,Expenses,Groceries,Groceries - Walmart,29.35
+9/25/2024,POS,Expenses,Groceries,Groceries - Walmart,49.08
+9/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+9/25/2024,POS,Expenses,Other,Bought drill bits at Lowes,9.54
+9/26/2024,POS,Expenses,Groceries,Groceries - Walmart,5.69
+9/26/2024,POS,Expenses,Groceries,Groceries - Walmart,14.5
+9/26/2024,POS,Expenses,Fitness,Bought new running shoes,169.92
+9/26/2024,POS,Expenses,Dining Out,Went to Applebees with Jane,46.26
+9/26/2024,POS,Expenses,Groceries,Venmo for raspberries (John Doe),3
+9/27/2024,DEP,Income,Deposit Other,Venmo cashout,49.7
+9/27/2024,POS,Expenses,Utilities,Utilities (June 2024),92
+9/27/2024,POS,Expenses,Utilities,Utilities (July 2024),98
+9/27/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),9
+9/27/2024,POS,Expenses,Dining Out,Got coffee,6.65
+9/27/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,4.28
+9/28/2024,POS,Expenses,Recreation,Bought Theo Von tickets,107.55
+9/28/2024,POS,Expenses,Dining Out,Went to Subway,13.5
+9/28/2024,POS,Expenses,Education/Training,Datacamp Subscription,149
+9/29/2024,POS,Expenses,Dining Out,Went to Arby's,5.36
+9/29/2024,POS,Expenses,Groceries,Groceries - Walmart,3.87
+9/29/2024,POS,Expenses,Groceries,Groceries - Walmart,18.22
+9/29/2024,POS,Expenses,Dining Out,Got breakfast with Dad,39.57
+9/30/2024,POS,Expenses,Dining Out,Got coffee,6.38
+9/30/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,946.68
+9/30/2024,DEP,Income,Deposit Other,Venmo cashout,60.75
+9/30/2024,ACH,Savings,Big Savings Bank,Transfer to savings,300
+10/1/2024,POS,Expenses,Groceries,Groceries - GroceryMart,16
+10/2/2024,POS,Expenses,Dining Out,Went to Culver's,7.81
+10/3/2024,DEP,Income,Deposit Other,Refund for Datacamp subscription,149
+10/4/2024,POS,Expenses,Groceries,Groceries - GroceryMart,22
+10/4/2024,POS,Expenses,Fitness,Bought sealant for bike,7.43
+10/4/2024,POS,Expenses,Rent,Rent (September 2024),259.26
+10/5/2024,POS,Expenses,Dining Out,Went to Capriottis,8.89
+10/5/2024,POS,Expenses,Gas & Misc.,Gas,50
+10/6/2024,POS,Expenses,Groceries,Groceries - GroceryMart,4
+10/6/2024,POS,Expenses,Recreation,Bought new phone screen protector,21.24
+10/7/2024,POS,Expenses,Dining Out,Went to Tropical Smoothie,10.38
+10/7/2024,DEP,Income,Deposit Other,First Money Bank Rewards,200
+10/7/2024,DEP,Income,Deposit Other,Venmo cashout,7.04
+10/7/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),20
+10/7/2024,POS,Expenses,Groceries,Venmo for Sioux City Sarsaparilla (John Doe),1.5
+10/8/2024,DEP,Income,Transfer from Other,Transfer from Dad (purchasing 2003 Ford F-150),5000
+10/8/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,6000
+10/8/2024,POS,Expenses,Dining Out,Went to Culver's,4.81
+10/9/2024,DEP,Income,Transfer from Other,Transfer from Dad (Colorado Trip & Grandparents Anniversary),500
+10/9/2024,POS,Expenses,Utilities,Utilities (August 2024),85.18
+10/10/2024,DEP,Income,Deposit Other,Venmo cashout,6.75
+10/10/2024,POS,Expenses,Car Payment,Cashier's check for purchasing car (2003 Ford F-150),10010
+10/11/2024,POS,Expenses,Recreation,Get cash for rock band concert,22
+10/11/2024,POS,Expenses,Recreation,ATM Fee,3
+10/11/2024,POS,Expenses,Gas & Misc.,Gas,30
+10/11/2024,POS,Expenses,Groceries,Groceries - Walmart,7.31
+10/11/2024,POS,Expenses,Gas & Misc.,Gas,53.18
+10/12/2024,POS,Expenses,Groceries,Groceries - Walmart,11.17
+10/12/2024,POS,Expenses,Gas & Misc.,Gas,50
+10/12/2024,POS,Expenses,Dining Out,Went to McDonald's,2.99
+10/12/2024,POS,Expenses,Gas & Misc.,Gas,43.05
+10/13/2024,POS,Expenses,Groceries,Groceries - Walmart,20.55
+10/13/2024,POS,Expenses,Gas & Misc.,Gas,17.99
+10/13/2024,POS,Expenses,Fitness,Bought bike tool (hex key set),18
+10/13/2024,POS,Expenses,Recreation,Bought bear spray,34.99
+10/13/2024,POS,Expenses,Groceries,Bought food at gas station,4.5
+10/14/2024,POS,Expenses,Gas & Misc.,Gas,30
+10/14/2024,POS,Expenses,Dining Out,Got coffee,16.8
+10/14/2024,POS,Expenses,Fitness,Lactic Gym Hot Yoga,8.5
+10/14/2024,POS,Expenses,Groceries,Groceries - Walmart,25.41
+10/14/2024,POS,Expenses,Groceries,Groceries - Walmart,1.88
+10/14/2024,POS,Expenses,Dining Out,Got coffee,7.5
+10/15/2024,POS,Expenses,Dining Out,Went to Wendy's,10.09
+10/15/2024,POS,Expenses,Dining Out,Got coffee,6.5
+10/15/2024,POS,Expenses,Gas & Misc.,Gas,60
+10/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1113.62
+10/16/2024,POS,Expenses,Gas & Misc.,Gas,50
+10/16/2024,POS,Expenses,Gas & Misc.,Gas,29.58
+10/16/2024,POS,Expenses,Dining Out,Went to Burger King,5.71
+10/16/2024,POS,Expenses,Gas & Misc.,Gas,30
+10/17/2024,POS,Expenses,Gifts,"Bought Jane Chocolate from Boulder, CO",44.44
+10/17/2024,POS,Expenses,Dining Out,Ate at Costco,3.24
+10/18/2024,POS,Expenses,Gas & Misc.,Gas,40
+10/18/2024,POS,Expenses,Dining Out,Went to In N Out Burger,10.62
+10/18/2024,POS,Expenses,Recreation,Bought CSU track uniforms,43.22
+10/18/2024,POS,Expenses,Dining Out,Venmo for Rolling Smoke in Denver (Mitchell Thomas),58
+10/19/2024,POS,Expenses,Recreation,Bought frolf disc,10.81
+10/19/2024,POS,Expenses,Gifts,Bought gag gift for family Christmas,32.01
+10/19/2024,POS,Expenses,Gas & Misc.,Gas,54
+10/20/2024,POS,Expenses,Gas & Misc.,Gas,50
+10/20/2024,POS,Expenses,Gas & Misc.,Gas,21
+10/20/2024,POS,Expenses,Gas & Misc.,Gas,12.7
+10/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+10/23/2024,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,14.84
+10/23/2024,POS,Expenses,Groceries,Groceries - Walmart,46.63
+10/24/2024,POS,Expenses,Groceries,Groceries - GroceryMart,23.37
+10/24/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),17
+10/25/2024,ACH,Savings,Big Savings Bank,Transfer to savings,1000
+10/25/2024,POS,Expenses,Recreation,Bought pumpkins at Runnings,10.62
+10/25/2024,POS,Expenses,Groceries,Groceries - Walmart,10.56
+10/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+10/25/2024,POS,Expenses,Recreation,Bought Halloween costumes,32.9
+10/26/2024,POS,Expenses,Groceries,Groceries - Walmart,16.78
+10/28/2024,POS,Expenses,Gas & Misc.,Plates and registration for (2003 Ford F-150),1743.73
+10/28/2024,POS,Expenses,Gas & Misc.,Gas,50
+10/28/2024,DEP,Income,Deposit Other,Venmo cashout,40.56
+10/28/2024,POS,Expenses,Recreation,Venmo for Poker Night (Veronica Vermont),10
+10/29/2024,POS,Expenses,Education/Training,"Venmo for Praying Like Monks, Living Like Fools (Beliver Church)",5
+10/29/2024,POS,Expenses,Dining Out,Venmo for Tropical Smoothie (Jane Doe),5
+10/29/2024,POS,Expenses,Dining Out,Venmo for Tropical Smoothie (Jane Doe),0.99
+10/29/2024,POS,Expenses,Recreation,Took small group bowling,47
+10/30/2024,POS,Expenses,Groceries,Groceries - Walmart,30.39
+10/30/2024,POS,Expenses,Dining Out,Went to Culver's,15.31
+10/31/2024,POS,Expenses,Groceries,Groceries - Costco,41.91
+10/31/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1608.86
+10/31/2024,DEP,Income,Deposit Other,Venmo cashout,5.98
+10/31/2024,POS,Expenses,Dining Out,Venmo for Tropical Smoothie (Emily Johnson),8
+10/31/2024,POS,Expenses,Recreation,Venmo for haunted house (Jane Doe),13
+10/31/2024,POS,Expenses,Dining Out,Went to Qdoba,13.83
+10/31/2024,POS,Expenses,Dining Out,Went to Qdoba,13.83
+11/1/2024,DEP,Income,Deposit Other,Venmo cashout,56
+11/2/2024,POS,Expenses,Dining Out,Went to Coffee Town,6.35
+11/3/2024,POS,Expenses,Groceries,Groceries - Walmart,7.22
+11/3/2024,POS,Expenses,Other,Bought Cups for Grandparent's 50th anniversary party,4.25
+11/4/2024,ACH,Income,Transfer from Savings,Transfer from Big Savings Bank,1000
+11/4/2024,POS,Expenses,Car Payment,Car Payment (November 2024),1009
+11/5/2024,ACH,Income,Transfer from Savings,Transfer from Big Savings Bank,1000
+11/5/2024,POS,Expenses,Rent,Rent (October 2024),290
+11/5/2024,POS,Expenses,Groceries,Groceries - Walmart,5.06
+11/6/2024,POS,Expenses,Dining Out,Went to Coffee Town,7.79
+11/7/2024,POS,Expenses,Groceries,Groceries - GroceryMart,9
+11/7/2024,POS,Expenses,Groceries,Groceries - GroceryMart,4
+11/7/2024,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,24.17
+11/7/2024,POS,Expenses,Dining Out,Went to Coffee Town,4.21
+11/7/2024,POS,Expenses,Utilities,Utilities (October 2024),90.75
+11/7/2024,POS,Expenses,Gas & Misc.,Transfer to Dad for car insurance,731
+11/9/2024,POS,Expenses,Dining Out,Bought food at gas station,11.74
+11/9/2024,POS,Expenses,Fitness,Lactic Gym Hot Yoga,15.93
+11/9/2024,POS,Expenses,Gas & Misc.,Gas,55.64
+11/9/2024,POS,Expenses,Gas & Misc.,Gas,50
+11/10/2024,POS,Expenses,Gas & Misc.,Gas,58.85
+11/10/2024,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,74.33
+11/10/2024,POS,Expenses,Groceries,Groceries - Costco,23.35
+11/12/2024,POS,Expenses,Gas & Misc.,Gas,15
+11/12/2024,POS,Expenses,Gas & Misc.,Oil change,105.11
+11/13/2024,POS,Expenses,Groceries,Groceries - Walmart,56.71
+11/15/2024,POS,Expenses,Health Care,Got medicine,21.23
+11/15/2024,POS,Expenses,Health Care,Got medicine,1.88
+11/15/2024,POS,Expenses,Health Care,Got medicine,11.67
+11/15/2024,POS,Expenses,Groceries,Groceries - GroceryMart,25
+11/15/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,350.24
+11/16/2024,POS,Expenses,Recreation,Went bowling,18
+11/16/2024,POS,Expenses,Dining Out,Went to Coffee Town,3.71
+11/16/2024,POS,Expenses,Gifts,Bought Jessi Doe Coffee,19.3
+11/17/2024,POS,Expenses,Gas & Misc.,Got a car wash,16.99
+11/17/2024,POS,Expenses,Groceries,Groceries - Walmart,5.31
+11/17/2024,POS,Expenses,Other,Bought socket set at Lowe's,74.32
+11/18/2024,POS,Expenses,Gas & Misc.,Gas,50
+11/19/2024,POS,Expenses,Groceries,Groceries - Walmart,18.27
+11/19/2024,DEP,Income,Deposit Other,First Money Bank Rewards,75
+11/20/2024,POS,Expenses,Groceries,Groceries - Walmart,33.35
+11/20/2024,DEP,Income,Deposit Other,Refund fro Lowe's for socket set,74.32
+11/20/2024,POS,Expenses,Dining Out,Went to Culver's,4.81
+11/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+11/21/2024,DEP,Income,Deposit Other,Venmo cashout,34.81
+11/21/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,300
+11/22/2024,POS,Expenses,Groceries,Groceries - GroceryMart,7
+11/22/2024,POS,Expenses,Groceries,Groceries - Walmart,6.07
+11/22/2024,POS,Expenses,Groceries,Groceries - Walmart,2.53
+11/23/2024,POS,Expenses,Gas & Misc.,Got a car wash,28.67
+11/23/2024,POS,Expenses,Groceries,Groceries - Target,38.19
+11/23/2024,POS,Expenses,Dining Out,Went to Poke Bowls,27.85
+11/24/2024,POS,Expenses,Recreation,Bought Charles Wesley Godwin tickets,60.36
+11/24/2024,POS,Expenses,Groceries,Groceries - Walmart,1.93
+11/24/2024,POS,Expenses,Gas & Misc.,Undercoated 2003 Ford F-150,318.59
+11/25/2024,POS,Expenses,Groceries,Groceries - GroceryMart,6
+11/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+11/25/2024,POS,Expenses,Dining Out,Went to Culver's,4.81
+11/25/2024,DEP,Income,Deposit Other,Venmo cashout,14.03
+11/25/2024,POS,Expenses,Dining Out,Venmo for cookie (Jane Doe),5
+11/26/2024,POS,Expenses,Dining Out,Went to Qdoba,11.42
+11/26/2024,POS,Expenses,Dining Out,Went to Qdoba,10.67
+11/27/2024,POS,Expenses,Recreation,Bought Zach Bryan shirt,64.79
+11/27/2024,POS,Expenses,Health Care,Got medicine,3.32
+11/27/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,12.67
+11/27/2024,POS,Expenses,Gas & Misc.,Gas,50
+11/27/2024,POS,Expenses,Gas & Misc.,Gas,30
+11/29/2024,POS,Expenses,Recreation,Bought Ticket To Ride board game,21.23
+11/29/2024,POS,Expenses,Gifts,Bought Andrew Christmas present,21.19
+11/29/2024,POS,Expenses,Recreation,Bought new shoes,119.45
+11/29/2024,POS,Expenses,Gifts,Bought Dad's Christmas gift,127.4
+11/29/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1275.3
+11/29/2024,DEP,Income,Transfer from Other,Transfer from Dad,350
+11/30/2024,POS,Expenses,Gifts,Bought Sean's Christmas gift,13.12
+12/1/2024,POS,Expenses,Groceries,Groceries - GroceryMart,38
+12/1/2024,POS,Expenses,Gas & Misc.,Gas,50
+12/2/2024,POS,Expenses,Groceries,Groceries - GroceryMart,16.42
+12/2/2024,POS,Expenses,Groceries,Groceries - Walmart,43.83
+12/2/2024,POS,Expenses,Dining Out,Got coffee,1.06
+12/2/2024,DEP,Income,Deposit Other,Venmo cashout,70.76
+12/3/2024,POS,Expenses,Rent,Rent (November 2024),290
+12/3/2024,POS,Expenses,Recreation,Went to the movies,5
+12/4/2024,POS,Expenses,Gifts,Bought Mom's Christmas gift,418.35
+12/4/2024,POS,Expenses,Gas & Misc.,Gas,50
+12/5/2024,POS,Expenses,Dining Out,Went to Panera,36.81
+12/5/2024,DEP,Income,Deposit Other,Venmo cashout,6
+12/5/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),15
+12/6/2024,POS,Expenses,Groceries,Bought drink at gas station,3.39
+12/6/2024,DEP,Income,Deposit Other,Venmo cashout,15
+12/6/2024,POS,Expenses,Groceries,Groceries - GroceryMart,3.71
+12/6/2024,POS,Expenses,Fitness,Lactic Gym Hot Yoga,15.93
+12/7/2024,POS,Expenses,Groceries,Groceries - Walmart,8.3
+12/7/2024,POS,Expenses,Groceries,Bought food at gas station,6.39
+12/9/2024,POS,Expenses,Recreation,Bought AC/DC tickets,460.98
+12/9/2024,POS,Expenses,Gifts,Bought Jessi Doe Coffee,26
+12/9/2024,POS,Expenses,Recreation,Bought ugly Christmas sweaters for the house Christmas card,62.41
+12/9/2024,DEP,Income,Transfer from Savings,Transfer from Big Savings Bank,300
+12/9/2024,POS,Expenses,Utilities,Utilities (November 2024),85.34
+12/9/2024,POS,Expenses,Car Payment,Car Payment (December 2024),500
+12/9/2024,DEP,Income,Deposit Other,Cashed check for Chruch small group refund,47
+12/10/2024,DEP,Income,Deposit Other,Venmo cashout,31.5
+12/11/2024,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),9
+12/11/2024,POS,Expenses,Groceries,Groceries - Walmart,14.15
+12/11/2024,POS,Expenses,Groceries,Bought food at gas station,6.26
+12/11/2024,POS,Expenses,Groceries,Bought food at gas station,2.43
+12/11/2024,POS,Expenses,Gas & Misc.,Gas,50
+12/11/2024,POS,Expenses,Dining Out,Got coffee,8.62
+12/12/2024,POS,Expenses,Other,Bought stamps,52.57
+12/12/2024,DEP,Income,Deposit Other,Refund for stamps,35.05
+12/12/2024,POS,Expenses,Recreation,the house Christmas Cards,59.98
+12/12/2024,DEP,Income,Deposit Other,Refund for Tyler's ugly Christmas sweater,26.54
+12/12/2024,DEP,Income,Deposit Other,Refund for envelopes,9.01
+12/13/2024,POS,Expenses,Groceries,Groceries - Walmart,7.29
+12/13/2024,POS,Expenses,Dining Out,Got coffee,6.27
+12/13/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1546.55
+12/13/2024,POS,Expenses,Dining Out,Venmo for Ice Cream (Jane Doe),4
+12/13/2024,POS,Expenses,Dining Out,Venmo for Qdoba (Jane Doe),16
+12/14/2024,POS,Expenses,Gifts,Bought Nick Hartman Christmas gift,47.79
+12/15/2024,POS,Expenses,Groceries,Groceries - GroceryMart,4
+12/15/2024,POS,Expenses,Groceries,Groceries - Walmart,3.37
+12/16/2024,DEP,Income,Deposit Other,Venmo cashout,16.73
+12/16/2024,DEP,Income,Deposit Other,Venmo cashout,41.71
+12/16/2024,POS,Expenses,Dining Out,Venmo for Hy Chi (Jane Doe),6
+12/16/2024,POS,Expenses,Gifts,Venmo for Chruch White Elephant Gift (John Doe),12
+12/16/2024,POS,Expenses,Gifts,Venmo for Chruch White Elephant Gift (John Doe),8
+12/16/2024,POS,Expenses,Haircuts,Haircut,25.18
+12/16/2024,POS,Expenses,Gas & Misc.,Got a car wash,13.75
+12/17/2024,POS,Expenses,Gifts,Bought Christmas present,31.85
+12/17/2024,POS,Expenses,Dining Out,Ate at taco John's,13.05
+12/17/2024,POS,Expenses,Dining Out,Went to Guad's with Jane,35.71
+12/17/2024,POS,Expenses,Groceries,Groceries - Walmart,10.62
+12/18/2024,POS,Expenses,Groceries,Groceries - GroceryMart,7
+12/18/2024,POS,Expenses,Dining Out,Went to Insomnia Cookies with Jane,10.66
+12/18/2024,POS,Expenses,Dining Out,Got coffee,6.84
+12/19/2024,POS,Expenses,Gifts,Mailed Lucas his Christmas present,22.32
+12/19/2024,POS,Expenses,Groceries,Groceries - GroceryPlus,5.62
+12/19/2024,POS,Expenses,Gas & Misc.,Gas,50
+12/19/2024,POS,Expenses,Gifts,Bought Dan Doe Christmas gift,35
+12/21/2024,POS,Expenses,Dining Out,Went to Cinnabon,3.49
+12/21/2024,POS,Expenses,Gifts,Bought wrapping paper,9.55
+12/21/2024,POS,Expenses,Gifts,Bought Ella Doe's Christmas present,22.51
+12/21/2024,POS,Expenses,Groceries,Groceries - Walmart,4.16
+12/21/2024,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+12/22/2024,POS,Expenses,Fitness,Hot Yoga,19.12
+12/22/2024,POS,Expenses,Gifts,Bought Mom's Christmas gift,50
+12/22/2024,POS,Expenses,Gifts,Bought Dad's Christmas gift,46.54
+12/22/2024,POS,Expenses,Gifts,Bought white elephant gift for Jane's family Christmas (Jeans),18.34
+12/22/2024,POS,Expenses,Gas & Misc.,Gas,13
+12/22/2024,POS,Expenses,Gifts,Bought Jane's Christmas present,15.89
+12/23/2024,POS,Expenses,Gas & Misc.,Gas,50
+12/23/2024,POS,Expenses,Dining Out,Went to Juice Stop,19.84
+12/23/2024,POS,Expenses,Gifts,Bought Jane's Christmas present,12.74
+12/23/2024,DEP,Income,Deposit Other,Venmo cashout,3.15
+12/23/2024,POS,Expenses,Gifts,Venmo for Mom's Christmas gift (Jane Doe),30
+12/25/2024,POS,Expenses,Apple Music,Apple Music,6.36
+12/27/2024,POS,Expenses,Recreation,Got pedicure with Jane,100.96
+12/27/2024,POS,Expenses,Groceries,Groceries - Walmart,2.09
+12/27/2024,POS,Expenses,Gas & Misc.,Gas,20
+12/29/2024,POS,Expenses,Gifts,Bought Christmas present,27.6
+12/29/2024,POS,Expenses,Gifts,Bought Emily Johnson Christmas Gift,20.33
+12/29/2024,POS,Expenses,Recreation,Bought Ego Is The Enemy book,18.92
+12/29/2024,POS,Expenses,Dining Out,Went to JL Beers with Peyton Gleason,38.12
+12/29/2024,POS,Expenses,Gas & Misc.,Got a car wash,10
+12/29/2024,POS,Expenses,Gas & Misc.,Gas,59
+12/30/2024,POS,Expenses,Health Care,Happy Health Hospital Health bill,80
+12/30/2024,POS,Expenses,Groceries,Bought stuff at Fleet Farm,14.72
+12/30/2024,POS,Expenses,Dining Out,Went to Poke Bowls,13.93
+12/30/2024,POS,Expenses,Gifts,Venmo for Sean and Victoria's Christmas gift (Jane Doe),34
+12/30/2024,DEP,Income,Deposit Other,Venmo cashout,58
+12/30/2024,DEP,Income,Deposit Other,Venmo cashout,9
+12/31/2024,DEP,Income,Deposit ONE,BusinessCorp Paycheck,1215
+1/1/2025,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,27.58
+1/3/2025,POS,Expenses,Fitness,Bought a Lactic Gym membership,246.12
+1/3/2025,POS,Expenses,Utilities,Utilities (November 2024),107.8
+1/5/2025,POS,Expenses,Gas & Misc.,Gas,50
+1/6/2025,POS,Expenses,Other,Vet bill,159.88
+1/6/2025,DEP,Income,Deposit Other,Transfer from Dad,156
+1/6/2025,POS,Expenses,Rent,Rent (December 2024),290
+1/6/2025,POS,Expenses,Car Payment,Car Payment (January 2024),150
+1/8/2025,POS,Expenses,Recreation,Bought Hitch Cover,72.49
+1/8/2025,POS,Expenses,Fitness,Hot Yoga,19.12
+1/12/2025,POS,Expenses,Groceries,Groceries - GroceryMart,33.37
+1/13/2025,POS,Expenses,Groceries,Groceries - Walmart,23.84
+1/13/2025,POS,Expenses,Groceries,Bought food at gas station,2.43
+1/14/2025,POS,Expenses,Groceries,Groceries - GroceryMart,2.32
+1/14/2025,POS,Expenses,Gas & Misc.,Bought new car battery,345.39
+1/14/2025,DEP,Income,Deposit Other,Refund from Advanced Auto Parts,23.36
+1/14/2025,POS,Expenses,Other,Bought tools,71.11
+1/15/2025,DEP,Income,Deposit ONE,BusinessCorp Paycheck,819.49
+1/16/2025,DEP,Income,Deposit Other,First Money Bank Rewards,100
+1/16/2025,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),6.5
+1/16/2025,POS,Expenses,Groceries,Venmo for groceries (Jane Doe),3
+1/17/2025,POS,Expenses,Dining Out,Venmo for smoothie (Jane Doe),7
+1/18/2025,POS,Expenses,Groceries,Groceries - Walmart,15.85
+1/18/2025,POS,Expenses,Dining Out,Got coffee,3.71
+1/19/2025,POS,Expenses,Groceries,Groceries - GroceryMart,30.99
+1/19/2025,POS,Expenses,Groceries,Groceries - Walmart,46.43
+1/19/2025,POS,Expenses,Dining Out,Went to Culver's,12.74
+1/20/2025,POS,Expenses,Dining Out,Got coffee,2.94
+1/20/2025,POS,Expenses,Groceries,Groceries - Costco,25.48
+1/21/2025,POS,Expenses,Education/Training,ChatGPT Premium,21.24
+1/21/2025,POS,Expenses,Gifts,Bought Jane Doe a Bible,47.78
+1/21/2025,DEP,Income,Deposit Other,Venmo cashout,7
+1/22/2025,POS,Expenses,Dining Out,Went to Culver's,8.98
+1/23/2025,POS,Expenses,Groceries,Groceries - GroceryMart,5.33
+1/23/2025,POS,Expenses,Recreation,Bought stuff at T.J. Maxx,29.71
+1/23/2025,POS,Expenses,Groceries,Groceries - Walmart,26.76
+1/23/2025,DEP,Income,Deposit Other,Venmo cashout,6
+1/24/2025,DEP,Income,Deposit Other,Venmo cashout,26
+1/25/2025,POS,Expenses,Apple Music,Apple Music,6.36
+1/25/2025,POS,Expenses,Dining Out,Went to Cubby's,18.17
+1/26/2025,POS,Expenses,Gas & Misc.,Gas,50
+1/26/2025,POS,Expenses,Other,Bought Mom Starbucks,7.13
+1/27/2025,POS,Expenses,Gas & Misc.,Got a car wash,13.81
+1/27/2025,DEP,Income,Deposit Other,Transfer from Dad,300
+1/27/2025,POS,Expenses,Dining Out,Venmo for groceries (Jane Doe),2
+1/27/2025,POS,Expenses,Recreation,Venmo for spring break housing (John Doe),36.43
+1/27/2025,POS,Expenses,Recreation,Venmo for spring break housing (John Doe),289.87
+1/28/2025,POS,Expenses,Groceries,Groceries - Walmart,31.98
+1/29/2025,POS,Expenses,Groceries,Groceries - GroceryMart,3.15
+1/29/2025,POS,Expenses,Groceries,Groceries - GroceryMart,1.05
+1/30/2025,DEP,Income,Deposit ONE,BusinessCorp Paycheck,2902.11

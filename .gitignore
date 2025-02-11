@@ -1,0 +1,9 @@
+# R environment and sensitive files
+.Renviron
+.Rhistory
+.Rprofile
+
+# renv cache (but not lockfile, see below)
+renv/library/
+renv/staging/
+renv/settings.dcf

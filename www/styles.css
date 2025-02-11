@@ -1,0 +1,92 @@
+/* Importing the Poppins font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Global body styling */
+body {
+  font-family: 'Poppins', sans-serif;  /* Applying Poppins font */
+  background-color: #1e2a47;  /* Dark blue background */
+  color: #f4f4f4;  /* Light gray text for contrast */
+  margin: 0;
+  padding: 0;
+}
+
+/* Modal dialog styling */
+.modal-content {
+  background-color: #1e2a47; /* Dark blue background */
+  color: #f4f4f4; /* Light gray text for better contrast */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+  padding: 20px; /* Add padding inside the modal */
+}
+
+/* Modal title styling */
+.modal-title {
+  color: #000000 !important; /* Black text for title */
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px; /* Slightly larger font */
+  text-transform: capitalize;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ff4785; /* Underline title for separation */
+  margin-bottom: 20px;
+}
+
+/* Table styling inside modal */
+.modal-content .dataTable {
+  background-color: #1e2a47 !important; /* Same background as modal */
+  color: #ffffff !important; /* White text */
+}
+
+.modal-content table.dataTable th {
+  background-color: #ff4785 !important; /* Pink header background */
+  color: #ffffff !important; /* White text */
+  border-radius: 5px 5px 0 0; /* Rounded corners for the top */
+  text-align: center; /* Center align header text */
+  font-weight: bold; /* Bold header text */
+  padding: 10px; /* Add padding for better spacing */
+}
+
+.modal-content table.dataTable td {
+  background-color: #2a3a66 !important; /* Uniform row background */
+  color: #ffffff !important; /* White text */
+  text-align: center; /* Center align table content */
+  padding: 8px; /* Add padding for better readability */
+}
+
+/* Table header border fixes */
+.modal-content table.dataTable th {
+  border-bottom: 2px solid #ffffff !important; /* Add white border to header */
+}
+
+/* Table rows - Alternate background for better readability */
+.modal-content table.dataTable tr:nth-child(even) {
+  background-color: #344a77 !important; /* Alternate row background */
+}
+
+.modal-content table.dataTable tr:hover {
+  background-color: #4169E1 !important; /* Highlight row on hover */
+}
+
+/* Styling for dismiss button */
+.modal-footer .btn {
+  background-color: #000000; /* Black button */
+  color: #ffffff; /* White text */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 20px; /* Add padding */
+  font-weight: bold; /* Bold text */
+}
+
+.modal-footer .btn:hover {
+  background-color: #444444; /* Darker gray on hover */
+}
+
+.prediction-card {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #1e2a47;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  color: #f4f4f4;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
