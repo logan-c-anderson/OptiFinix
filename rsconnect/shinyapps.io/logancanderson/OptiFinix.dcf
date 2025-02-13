@@ -5,9 +5,9 @@ account: logancanderson
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13972108
-bundleId: 9784910
+bundleId: 9787186
 url: https://logancanderson.shinyapps.io/OptiFinix/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .Renviron|data
+ignoredFiles: .Renviron|.Rprofile|README.md|data

@@ -3,15 +3,11 @@ summaryModuleUI <- function(id) {
   tagList(
     fluidRow(
       # Info Boxes Row
-      column(6, uiOutput(ns("current_date_box"))),
-      column(6, uiOutput(ns("transactions_count_box")))
-    ),
-    br(),
-    fluidRow(
+      column(3, uiOutput(ns("current_date_box"))),
       # Monthly Financial Overview Row
-      column(4, uiOutput(ns("monthly_exps_to_inc_ratio"))),
-      column(4, uiOutput(ns("monthly_total_income"))),
-      column(4, uiOutput(ns("monthly_total_expenses")))
+      column(3, uiOutput(ns("monthly_exps_to_inc_ratio"))),
+      column(3, uiOutput(ns("monthly_total_income"))),
+      column(3, uiOutput(ns("monthly_total_expenses")))
     ),
     br(),
     fluidRow(
@@ -147,15 +143,15 @@ summaryModule <- function(input, output, session, account_data, year_input, mont
     data
   })
   
-  output$transactions_count_box <- renderUI({
-    transaction_count <- (nrow(read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")) - 1)
-    div(
-      class = "info-box",
-      style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;",
-      h4("Total No. of Transactions Tracked"),
-      h3(transaction_count)
-    )
-  })
+  # output$transactions_count_box <- renderUI({
+  #   transaction_count <- (nrow(read.csv("data/synthetic_historical_transactions_data.csv", encoding = "ISO-8859-1")) - 1)
+  #   div(
+  #     class = "info-box",
+  #     style = "background-color: #1e2a47; color: #f4f4f4; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;",
+  #     h4("Total No. of Transactions Tracked"),
+  #     h3(transaction_count)
+  #   )
+  # })
   
   # Info Box: Top Expense Categories
   output$top_expense_categories <- renderUI({
